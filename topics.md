@@ -15,6 +15,7 @@
 - [chrome](#chrome)
 - [computer-vision](#computer-vision)
 - [css](#css)
+- [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
@@ -116,6 +117,10 @@
 ## css 
 
 - [rtivital/omatsuri](https://github.com/rtivital/omatsuri) - PWA with 12 open source frontend focused tools
+
+## data-analysis 
+
+- [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 
 ## data-science 
 

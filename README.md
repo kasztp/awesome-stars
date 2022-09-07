@@ -19,6 +19,7 @@
 - [Shell](#shell)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Verilog](#verilog)
 
 ## C 
 
@@ -149,6 +150,10 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
+
+## Verilog 
+
+- [nonarkitten/amiga_replacement_project](https://github.com/nonarkitten/amiga_replacement_project) - This is an attempt to make clean Verilog sources for each chip on the Amiga.
 
 
 ## License

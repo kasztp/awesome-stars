@@ -258,7 +258,7 @@
 
 ## others 
 
-- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [nonarkitten/amiga_replacement_project](https://github.com/nonarkitten/amiga_replacement_project) - This is an attempt to make clean Verilog sources for each chip on the Amiga.
 - [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features 
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021

@@ -43,6 +43,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [mobile](#mobile)
+- [music](#music)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
 - [others](#others)
@@ -248,6 +249,10 @@
 ## mobile 
 
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
+
+## music 
+
+- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 
 ## nodejs 
 

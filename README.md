@@ -35,6 +35,7 @@
 
 ## C++ 
 
+- [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [tonioni/WinUAE](https://github.com/tonioni/WinUAE) - WinUAE Amiga emulator
 
 ## CSS 
@@ -100,6 +101,7 @@
 
 ## Python 
 
+- [s0md3v/Zen](https://github.com/s0md3v/Zen) - Find emails of Github users
 - [MrPowers/chispa](https://github.com/MrPowers/chispa) - PySpark test helper methods with beautiful error messages
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production

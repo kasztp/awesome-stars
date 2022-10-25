@@ -46,6 +46,7 @@
 - [music](#music)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
+- [osint](#osint)
 - [others](#others)
 - [parsing](#parsing)
 - [programming](#programming)
@@ -181,6 +182,7 @@
 
 ## github 
 
+- [s0md3v/Zen](https://github.com/s0md3v/Zen) - Find emails of Github users
 - [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 
 ## go 
@@ -235,6 +237,7 @@
 
 ## linux 
 
+- [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
@@ -249,6 +252,7 @@
 
 ## macos 
 
+- [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 
@@ -267,6 +271,10 @@
 ## open-source 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## osint 
+
+- [s0md3v/Zen](https://github.com/s0md3v/Zen) - Find emails of Github users
 
 ## others 
 
@@ -390,6 +398,7 @@
 
 ## windows 
 
+- [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 

@@ -44,7 +44,7 @@
 
 ## HTML 
 
-- [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
+- [go101/go101](https://github.com/go101/go101) - An up-to-date (unofficial) knowledge base for Go programming self learning
 
 ## JavaScript 
 

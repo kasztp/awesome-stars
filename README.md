@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Julia](#julia)
@@ -41,6 +42,10 @@
 ## CSS 
 
 - [atisawd/boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
+
+## Go 
+
+- [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 
 ## HTML 
 

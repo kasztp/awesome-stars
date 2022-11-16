@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [ai](#ai)
 - [algorithm](#algorithm)
 - [api](#api)
@@ -47,6 +48,7 @@
 - [linux](#linux)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [matlab](#matlab)
 - [mobile](#mobile)
 - [music](#music)
 - [nodejs](#nodejs)
@@ -69,6 +71,10 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [windows](#windows)
+
+## 3d 
+
+- [csmailis/NPYViewer](https://github.com/csmailis/NPYViewer) - A simple GUI tool that provides multiple ways to load and view the contents of .npy files containing 2D and 1D NumPy arrays.
 
 ## ai 
 
@@ -292,6 +298,10 @@
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 
+## matlab 
+
+- [csmailis/NPYViewer](https://github.com/csmailis/NPYViewer) - A simple GUI tool that provides multiple ways to load and view the contents of .npy files containing 2D and 1D NumPy arrays.
+
 ## mobile 
 
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
@@ -306,6 +316,7 @@
 
 ## numpy 
 
+- [csmailis/NPYViewer](https://github.com/csmailis/NPYViewer) - A simple GUI tool that provides multiple ways to load and view the contents of .npy files containing 2D and 1D NumPy arrays.
 - [carlospuenteg/Photomosaic-Creator](https://github.com/carlospuenteg/Photomosaic-Creator) - This script allows you to create a photomosaic from a set of images.
 
 ## open-source 
@@ -323,6 +334,7 @@
 
 ## others 
 
+- [rtdip/core](https://github.com/rtdip/core) - Easy access to high volume, historical and real time process data for analytics applications, engineers, and data scientists wherever they are.
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [nonarkitten/amiga_replacement_project](https://github.com/nonarkitten/amiga_replacement_project) - This is an attempt to make clean Verilog sources for each chip on the Amiga.
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
@@ -377,6 +389,7 @@
 
 ## python 
 
+- [csmailis/NPYViewer](https://github.com/csmailis/NPYViewer) - A simple GUI tool that provides multiple ways to load and view the contents of .npy files containing 2D and 1D NumPy arrays.
 - [carlospuenteg/Photomosaic-Creator](https://github.com/carlospuenteg/Photomosaic-Creator) - This script allows you to create a photomosaic from a set of images.
 - [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.

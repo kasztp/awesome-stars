@@ -334,6 +334,7 @@
 
 ## others 
 
+- [elastic/ember](https://github.com/elastic/ember) - 
 - [rtdip/core](https://github.com/rtdip/core) - Easy access to high volume, historical and real time process data for analytics applications, engineers, and data scientists wherever they are.
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [nonarkitten/amiga_replacement_project](https://github.com/nonarkitten/amiga_replacement_project) - This is an attempt to make clean Verilog sources for each chip on the Amiga.

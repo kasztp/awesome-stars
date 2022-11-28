@@ -61,6 +61,7 @@
 - [programming](#programming)
 - [python](#python)
 - [python3](#python3)
+- [pytorch](#pytorch)
 - [react](#react)
 - [security](#security)
 - [serverless](#serverless)
@@ -169,6 +170,7 @@
 
 ## deep-learning 
 
+- [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [louisfb01/Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020) - A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code
 
@@ -334,6 +336,7 @@
 
 ## others 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [elastic/ember](https://github.com/elastic/ember) - 
 - [rtdip/core](https://github.com/rtdip/core) - Easy access to high volume, historical and real time process data for analytics applications, engineers, and data scientists wherever they are.
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -421,6 +424,10 @@
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [cnvogelg/amitools](https://github.com/cnvogelg/amitools) - Various tools for using AmigaOS programs on other platforms
+
+## pytorch 
+
+- [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 
 ## react 
 

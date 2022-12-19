@@ -107,6 +107,7 @@
 
 ## Python 
 
+- [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [QQlesQ/Emag-Price-Tracker-and-Database](https://github.com/QQlesQ/Emag-Price-Tracker-and-Database) - Emag Price Tracker and Database
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI

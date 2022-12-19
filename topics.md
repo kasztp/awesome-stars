@@ -341,6 +341,7 @@
 
 ## others 
 
+- [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [elastic/ember](https://github.com/elastic/ember) - 
 - [rtdip/core](https://github.com/rtdip/core) - Easy access to high volume, historical and real time process data for analytics applications, engineers, and data scientists wherever they are.

@@ -15,6 +15,7 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [bootstrap](#bootstrap)
+- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [cli](#cli)
 - [computer-vision](#computer-vision)
@@ -134,6 +135,10 @@
 ## bootstrap 
 
 - [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
+
+## chatgpt 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## chrome 
 

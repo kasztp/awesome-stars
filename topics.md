@@ -394,7 +394,6 @@
 - [naTmeg/ScriptedAmigaEmulator](https://github.com/naTmeg/ScriptedAmigaEmulator) - Amiga Emulator in javascript and HTML5
 - [pauleveritt/42-workshop](https://github.com/pauleveritt/42-workshop) - Workshop material for 42 PyCharm Tips and Tricks
 - [dgnzlz/Capstone_AWS_DeepRacer](https://github.com/dgnzlz/Capstone_AWS_DeepRacer) - Code that was used in the Article "An Advanced Guide to AWS DeepRacer"
-- [alma-v/doc](https://github.com/alma-v/doc) - 
 - [mvasilkov/kb](https://github.com/mvasilkov/kb) - Kivy Blueprints
 - [pjreddie/TopDeepLearning](https://github.com/pjreddie/TopDeepLearning) - A list of popular github projects related to deep learning
 - [eleanorlutz/mars_geology_atlas_of_space](https://github.com/eleanorlutz/mars_geology_atlas_of_space) - Code and instructions for making a geologic map of Mars

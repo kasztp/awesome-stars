@@ -112,7 +112,6 @@
 - [louisfb01/Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020) - A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code
 - [filiplajszczak/awesome-zen-of-python](https://github.com/filiplajszczak/awesome-zen-of-python) - awesome list of so called python philosophy resources
 - [grovdata/Amiga_Sources](https://github.com/grovdata/Amiga_Sources) - A compiled list of sources and hardware related to classic Commodore Amiga computers.
-- [alma-v/doc](https://github.com/alma-v/doc) - 
 - [pjreddie/TopDeepLearning](https://github.com/pjreddie/TopDeepLearning) - A list of popular github projects related to deep learning
 
 ## Python 

@@ -181,6 +181,7 @@
 
 ## deep-learning 
 
+- [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [louisfb01/Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020) - A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code
@@ -350,6 +351,8 @@
 
 ## others 
 
+- [nickbild/tflite_c64](https://github.com/nickbild/tflite_c64) - Run inferences using TensorFlow Lite for Microcontrollers on a Commodore 64.
+- [kiwicom/flask-ninja](https://github.com/kiwicom/flask-ninja) - 
 - [scottpletcher/deepracer](https://github.com/scottpletcher/deepracer) - AWS DeepRacer Experimentation
 - [pvvx/ATC_MiThermometer](https://github.com/pvvx/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometers and Telink Flasher
 - [atc1441/ATC_MiThermometer](https://github.com/atc1441/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter
@@ -411,6 +414,7 @@
 
 ## python 
 
+- [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [QQlesQ/Emag-Price-Tracker-and-Database](https://github.com/QQlesQ/Emag-Price-Tracker-and-Database) - Emag Price Tracker and Database
 - [csmailis/NPYViewer](https://github.com/csmailis/NPYViewer) - A simple GUI tool that provides multiple ways to load and view the contents of .npy files containing 2D and 1D NumPy arrays.
@@ -447,6 +451,7 @@
 
 ## pytorch 
 
+- [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 
 ## react 

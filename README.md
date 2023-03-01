@@ -43,6 +43,7 @@
 
 ## C++ 
 
+- [nickbild/tflite_c64](https://github.com/nickbild/tflite_c64) - Run inferences using TensorFlow Lite for Microcontrollers on a Commodore 64.
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [tonioni/WinUAE](https://github.com/tonioni/WinUAE) - WinUAE Amiga emulator
 
@@ -93,6 +94,7 @@
 
 ## Others 
 
+- [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 - [scottpletcher/deepracer](https://github.com/scottpletcher/deepracer) - AWS DeepRacer Experimentation
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
@@ -116,6 +118,7 @@
 
 ## Python 
 
+- [kiwicom/flask-ninja](https://github.com/kiwicom/flask-ninja) - 
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [QQlesQ/Emag-Price-Tracker-and-Database](https://github.com/QQlesQ/Emag-Price-Tracker-and-Database) - Emag Price Tracker and Database
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.

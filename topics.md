@@ -71,7 +71,6 @@
 - [software](#software)
 - [statistics](#statistics)
 - [testing](#testing)
-- [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -488,10 +487,6 @@
 ## testing 
 
 - [MrPowers/chispa](https://github.com/MrPowers/chispa) - PySpark test helper methods with beautiful error messages
-
-## vuejs 
-
-- [GenieFramework/Genie.jl](https://github.com/GenieFramework/Genie.jl) - 🧞The highly productive Julia web framework
 
 ## web 
 

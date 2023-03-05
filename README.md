@@ -118,6 +118,7 @@
 
 ## Python 
 
+- [jeffsieu/py-sudoku](https://github.com/jeffsieu/py-sudoku) - A Python Sudoku solver
 - [kiwicom/flask-ninja](https://github.com/kiwicom/flask-ninja) - 
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [QQlesQ/Emag-Price-Tracker-and-Database](https://github.com/QQlesQ/Emag-Price-Tracker-and-Database) - Emag Price Tracker and Database

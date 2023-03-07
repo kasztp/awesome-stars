@@ -94,6 +94,7 @@
 
 ## Others 
 
+- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 - [scottpletcher/deepracer](https://github.com/scottpletcher/deepracer) - AWS DeepRacer Experimentation
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
@@ -118,6 +119,7 @@
 
 ## Python 
 
+- [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [jeffsieu/py-sudoku](https://github.com/jeffsieu/py-sudoku) - A Python Sudoku solver
 - [kiwicom/flask-ninja](https://github.com/kiwicom/flask-ninja) - 
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.

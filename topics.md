@@ -71,6 +71,7 @@
 - [software](#software)
 - [statistics](#statistics)
 - [testing](#testing)
+- [wagtail](#wagtail)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -107,6 +108,7 @@
 
 ## awesome 
 
+- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -197,6 +199,7 @@
 
 ## django 
 
+- [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 
 ## docker 
@@ -242,6 +245,8 @@
 
 ## hacktoberfest 
 
+- [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
+- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
@@ -414,6 +419,8 @@
 
 ## python 
 
+- [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
+- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [jeffsieu/py-sudoku](https://github.com/jeffsieu/py-sudoku) - A Python Sudoku solver
 - [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
@@ -488,6 +495,11 @@
 ## testing 
 
 - [MrPowers/chispa](https://github.com/MrPowers/chispa) - PySpark test helper methods with beautiful error messages
+
+## wagtail 
+
+- [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
+- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 
 ## web 
 

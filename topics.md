@@ -161,6 +161,7 @@
 
 ## data-analysis 
 
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 
 ## data-science 
@@ -356,6 +357,8 @@
 
 ## others 
 
+- [databrickslabs/dbx](https://github.com/databrickslabs/dbx) - 🧱 Databricks CLI eXtensions - aka dbx is a CLI tool for development and advanced Databricks workflows management.
+- [databricks-academy/data-engineering-with-databricks-english](https://github.com/databricks-academy/data-engineering-with-databricks-english) - 
 - [nickbild/tflite_c64](https://github.com/nickbild/tflite_c64) - Run inferences using TensorFlow Lite for Microcontrollers on a Commodore 64.
 - [kiwicom/flask-ninja](https://github.com/kiwicom/flask-ninja) - 
 - [scottpletcher/deepracer](https://github.com/scottpletcher/deepracer) - AWS DeepRacer Experimentation

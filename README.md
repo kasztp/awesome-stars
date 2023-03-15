@@ -121,6 +121,7 @@
 
 ## Python 
 
+- [MrPowers/mack](https://github.com/MrPowers/mack) - Delta Lake helper methods in PySpark
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 - [databrickslabs/dbx](https://github.com/databrickslabs/dbx) - 🧱 Databricks CLI eXtensions - aka dbx is a CLI tool for development and advanced Databricks workflows management.
 - [databricks-academy/data-engineering-with-databricks-english](https://github.com/databricks-academy/data-engineering-with-databricks-english) - 

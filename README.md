@@ -123,6 +123,9 @@
 
 ## Python 
 
+- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
+- [databrickslabs/dlt-meta](https://github.com/databrickslabs/dlt-meta) - This is metadata driven DLT based framework for bronze/silver pipelines
+- [databricks/databricks-cli](https://github.com/databricks/databricks-cli) - Command Line Interface for Databricks
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [csurfer/pyheat](https://github.com/csurfer/pyheat) - pprofile + matplotlib = Python program profiled as an awesome heatmap!

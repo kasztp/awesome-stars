@@ -433,6 +433,7 @@
 
 ## others 
 
+- [pygame-web/pygame-web.github.io](https://github.com/pygame-web/pygame-web.github.io) - Run python and pygame code in your html
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [databrickslabs/dlt-meta](https://github.com/databrickslabs/dlt-meta) - This is metadata driven DLT based framework for bronze/silver pipelines
 - [databricks/databricks-cli](https://github.com/databricks/databricks-cli) - Command Line Interface for Databricks
@@ -505,6 +506,7 @@
 
 ## python 
 
+- [pygame-web/pygbag](https://github.com/pygame-web/pygbag) - python and pygame wasm for everyone ( packager + test server + simulator )
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [databrickslabs/tempo](https://github.com/databrickslabs/tempo) - API for manipulating time series on top of Apache Spark: lagged time values, rolling statistics (mean, avg, sum, count, etc), AS OF joins, downsampling, and interpolation
 - [dylanhogg/crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python) - A curated list of awesome Python frameworks, with a bias towards data and machine learning

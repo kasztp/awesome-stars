@@ -81,6 +81,7 @@
 ## Jupyter Notebook 
 
 - [databrickslabs/tempo](https://github.com/databrickslabs/tempo) - API for manipulating time series on top of Apache Spark: lagged time values, rolling statistics (mean, avg, sum, count, etc), AS OF joins, downsampling, and interpolation
+- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists) - Efficient Python Tricks and Tools for Data Scientists
 - [elastic/ember](https://github.com/elastic/ember) - 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -131,7 +132,6 @@
 
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [pygame-web/pygbag](https://github.com/pygame-web/pygbag) - python and pygame wasm for everyone ( packager + test server + simulator )
-- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [databrickslabs/dlt-meta](https://github.com/databrickslabs/dlt-meta) - This is metadata driven DLT based framework for bronze/silver pipelines
 - [databricks/databricks-cli](https://github.com/databricks/databricks-cli) - Command Line Interface for Databricks
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.

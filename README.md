@@ -19,6 +19,7 @@
 - [Makefile](#makefile)
 - [Others](#others)
 - [Python](#python)
+- [Rust](#rust)
 - [Shell](#shell)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -85,6 +86,7 @@
 
 ## Jupyter Notebook 
 
+- [andrasnagycon/AdvancedPyChapters](https://github.com/andrasnagycon/AdvancedPyChapters) - 
 - [databrickslabs/tempo](https://github.com/databrickslabs/tempo) - API for manipulating time series on top of Apache Spark: lagged time values, rolling statistics (mean, avg, sum, count, etc), AS OF joins, downsampling, and interpolation
 - [khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists) - Efficient Python Tricks and Tools for Data Scientists
 - [elastic/ember](https://github.com/elastic/ember) - 
@@ -138,7 +140,7 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [pygame-web/pygbag](https://github.com/pygame-web/pygbag) - python and pygame wasm for everyone ( packager + test server + simulator )
-- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
+- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
 - [databrickslabs/dlt-meta](https://github.com/databrickslabs/dlt-meta) - This is metadata driven DLT based framework for bronze/silver pipelines
 - [databricks/databricks-cli](https://github.com/databricks/databricks-cli) - Command Line Interface for Databricks
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
@@ -200,6 +202,10 @@
 - [pauleveritt/42-workshop](https://github.com/pauleveritt/42-workshop) - Workshop material for 42 PyCharm Tips and Tricks
 - [mvasilkov/kb](https://github.com/mvasilkov/kb) - Kivy Blueprints
 - [bslatkin/effectivepython](https://github.com/bslatkin/effectivepython) - Effective Python: Second Edition — Source Code and Errata for the Book
+
+## Rust 
+
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 
 ## Shell 
 

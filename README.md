@@ -24,6 +24,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Verilog](#verilog)
+- [Vue](#vue)
 
 ## Astro 
 
@@ -230,6 +231,10 @@
 ## Verilog 
 
 - [nonarkitten/amiga_replacement_project](https://github.com/nonarkitten/amiga_replacement_project) - This is an attempt to make clean Verilog sources for each chip on the Amiga.
+
+## Vue 
+
+- [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - Streamsync is an open-source framework for creating data apps. Build user interfaces using a visual editor; write the backend code in Python.
 
 
 ## License

@@ -229,6 +229,7 @@
 
 ## data-visualization 
 
+- [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - Streamsync is an open-source framework for creating data apps. Build user interfaces using a visual editor; write the backend code in Python.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 
@@ -528,6 +529,7 @@
 
 ## python 
 
+- [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - Streamsync is an open-source framework for creating data apps. Build user interfaces using a visual editor; write the backend code in Python.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter

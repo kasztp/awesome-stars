@@ -52,6 +52,7 @@
 
 ## CSS 
 
+- [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [atisawd/boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
 
 ## Cuda 
@@ -64,6 +65,7 @@
 
 ## HTML 
 
+- [pybluez/pybluez](https://github.com/pybluez/pybluez) - Bluetooth Python extension module
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [dylanhogg/crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python) - A curated list of awesome Python frameworks, with a bias towards data and machine learning
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -115,7 +117,6 @@
 - [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 - [scottpletcher/deepracer](https://github.com/scottpletcher/deepracer) - AWS DeepRacer Experimentation
-- [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [stereobooster/programming-languages-genealogical-tree](https://github.com/stereobooster/programming-languages-genealogical-tree) - Programming languages genealogical tree
@@ -137,6 +138,11 @@
 
 ## Python 
 
+- [JsBergbau/MiTemperature2](https://github.com/JsBergbau/MiTemperature2) - Read the values of the Xiaomi Mi Bluetooth Temperature sensor 2 including custom encrypted format.
+- [zewelor/bt-mqtt-gateway](https://github.com/zewelor/bt-mqtt-gateway) - A simple Python script which provides a Bluetooth to MQTT gateway, easily extensible via custom workers. See https://github.com/zewelor/bt-mqtt-gateway/wiki for more information.
+- [hobbypunk90/mithermometer](https://github.com/hobbypunk90/mithermometer) - 
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
+- [faster-cpython/cpython](https://github.com/faster-cpython/cpython) - The Python programming language
 - [mriale/PyDPainter](https://github.com/mriale/PyDPainter) - A usable pixel art paint program written in Python
 - [databricks/ide-best-practices](https://github.com/databricks/ide-best-practices) - Best practices for working with Databricks from an IDE
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way.

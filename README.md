@@ -138,6 +138,7 @@
 
 ## Python 
 
+- [hbldh/bleak](https://github.com/hbldh/bleak) - A cross platform Bluetooth Low Energy Client for Python using asyncio
 - [JsBergbau/MiTemperature2](https://github.com/JsBergbau/MiTemperature2) - Read the values of the Xiaomi Mi Bluetooth Temperature sensor 2 including custom encrypted format.
 - [zewelor/bt-mqtt-gateway](https://github.com/zewelor/bt-mqtt-gateway) - A simple Python script which provides a Bluetooth to MQTT gateway, easily extensible via custom workers. See https://github.com/zewelor/bt-mqtt-gateway/wiki for more information.
 - [hobbypunk90/mithermometer](https://github.com/hobbypunk90/mithermometer) - 
@@ -240,7 +241,7 @@
 
 ## Vue 
 
-- [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - Streamsync is an open-source framework for creating data apps. Build user interfaces using a visual editor; write the backend code in Python.
+- [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - Build UIs visually, write the backend code in Python. An open-source framework for creating data apps.
 
 
 ## License

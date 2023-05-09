@@ -229,7 +229,7 @@
 
 ## data-visualization 
 
-- [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - Streamsync is an open-source framework for creating data apps. Build user interfaces using a visual editor; write the backend code in Python.
+- [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - Build UIs visually, write the backend code in Python. An open-source framework for creating data apps.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 
@@ -535,7 +535,8 @@
 
 ## python 
 
-- [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - Streamsync is an open-source framework for creating data apps. Build user interfaces using a visual editor; write the backend code in Python.
+- [hbldh/bleak](https://github.com/hbldh/bleak) - A cross platform Bluetooth Low Energy Client for Python using asyncio
+- [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - Build UIs visually, write the backend code in Python. An open-source framework for creating data apps.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -579,6 +580,7 @@
 
 ## python3 
 
+- [hbldh/bleak](https://github.com/hbldh/bleak) - A cross platform Bluetooth Low Energy Client for Python using asyncio
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists) - Efficient Python Tricks and Tools for Data Scientists
 - [carlospuenteg/Photomosaic-Creator](https://github.com/carlospuenteg/Photomosaic-Creator) - This script allows you to create a photomosaic from a set of images.

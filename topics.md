@@ -166,6 +166,7 @@
 
 ## chatgpt 
 
+- [dylanhogg/crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python) - A curated list of awesome Python frameworks, with a bias towards data and machine learning
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## chatgpt-api 
@@ -437,6 +438,7 @@
 
 ## open-source 
 
+- [dylanhogg/crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python) - A curated list of awesome Python frameworks, with a bias towards data and machine learning
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## opencv 

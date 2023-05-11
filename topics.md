@@ -293,7 +293,7 @@
 
 ## frontend 
 
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [rtivital/omatsuri](https://github.com/rtivital/omatsuri) - PWA with 12 open source frontend focused tools
 
 ## git 
@@ -539,7 +539,7 @@
 
 - [hbldh/bleak](https://github.com/hbldh/bleak) - A cross platform Bluetooth Low Energy Client for Python using asyncio
 - [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - Build UIs visually, write the backend code in Python. An open-source framework for creating data apps.
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [pygame-web/pygbag](https://github.com/pygame-web/pygbag) - python and pygame wasm for everyone ( packager + test server + simulator )
@@ -607,7 +607,7 @@
 
 ## robotics 
 
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 
 ## rust 
 
@@ -665,7 +665,7 @@
 
 ## webapp 
 
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## webpack 
@@ -674,7 +674,7 @@
 
 ## website 
 
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 
 ## windows 
 

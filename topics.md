@@ -140,7 +140,7 @@
 ## awesome-list 
 
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [dylanhogg/crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python) - A curated list of awesome Python frameworks, with a bias towards data and machine learning
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by popularity score
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -166,7 +166,7 @@
 
 ## chatgpt 
 
-- [dylanhogg/crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python) - A curated list of awesome Python frameworks, with a bias towards data and machine learning
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by popularity score
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## chatgpt-api 
@@ -204,7 +204,7 @@
 
 ## data 
 
-- [dylanhogg/crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python) - A curated list of awesome Python frameworks, with a bias towards data and machine learning
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by popularity score
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 
 ## data-analysis 
@@ -230,7 +230,7 @@
 
 ## data-visualization 
 
-- [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - Build UIs visually, write the backend code in Python. An open-source framework for creating data apps.
+- [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - No-code in the front, Python in the back. An open-source framework for creating data apps.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 
@@ -394,7 +394,7 @@
 ## machine-learning 
 
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
-- [dylanhogg/crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python) - A curated list of awesome Python frameworks, with a bias towards data and machine learning
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by popularity score
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -438,7 +438,7 @@
 
 ## open-source 
 
-- [dylanhogg/crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python) - A curated list of awesome Python frameworks, with a bias towards data and machine learning
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by popularity score
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## opencv 
@@ -538,14 +538,14 @@
 ## python 
 
 - [hbldh/bleak](https://github.com/hbldh/bleak) - A cross platform Bluetooth Low Energy Client for Python using asyncio
-- [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - Build UIs visually, write the backend code in Python. An open-source framework for creating data apps.
+- [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - No-code in the front, Python in the back. An open-source framework for creating data apps.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [pygame-web/pygbag](https://github.com/pygame-web/pygbag) - python and pygame wasm for everyone ( packager + test server + simulator )
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [databrickslabs/tempo](https://github.com/databrickslabs/tempo) - API for manipulating time series on top of Apache Spark: lagged time values, rolling statistics (mean, avg, sum, count, etc), AS OF joins, downsampling, and interpolation
-- [dylanhogg/crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python) - A curated list of awesome Python frameworks, with a bias towards data and machine learning
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by popularity score
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists) - Efficient Python Tricks and Tools for Data Scientists

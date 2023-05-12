@@ -67,7 +67,7 @@
 
 - [pybluez/pybluez](https://github.com/pybluez/pybluez) - Bluetooth Python extension module
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [dylanhogg/crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python) - A curated list of awesome Python frameworks, with a bias towards data and machine learning
+- [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by popularity score
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [go101/go101](https://github.com/go101/go101) - An up-to-date (unofficial) knowledge base for Go programming self learning
 
@@ -241,7 +241,7 @@
 
 ## Vue 
 
-- [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - Build UIs visually, write the backend code in Python. An open-source framework for creating data apps.
+- [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - No-code in the front, Python in the back. An open-source framework for creating data apps.
 
 
 ## License

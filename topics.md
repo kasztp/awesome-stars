@@ -73,6 +73,7 @@
 - [others](#others)
 - [parsing](#parsing)
 - [pixel-art](#pixel-art)
+- [postgresql](#postgresql)
 - [programming](#programming)
 - [python](#python)
 - [python3](#python3)
@@ -87,6 +88,7 @@
 - [software](#software)
 - [statistics](#statistics)
 - [testing](#testing)
+- [typescript](#typescript)
 - [vuejs](#vuejs)
 - [wagtail](#wagtail)
 - [web](#web)
@@ -440,6 +442,7 @@
 
 ## open-source 
 
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - Hand-picked awesome Python libraries and frameworks, with an emphasis on data and machine learning, ranked by popularity score
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
@@ -531,6 +534,10 @@
 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
 
+## postgresql 
+
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
+
 ## programming 
 
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -539,6 +546,7 @@
 
 ## python 
 
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 - [hbldh/bleak](https://github.com/hbldh/bleak) - A cross platform Bluetooth Low Energy Client for Python using asyncio
 - [ramedina86/streamsync](https://github.com/ramedina86/streamsync) - No-code in the front, Python in the back. An open-source framework for creating data apps.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
@@ -647,6 +655,10 @@
 ## testing 
 
 - [MrPowers/chispa](https://github.com/MrPowers/chispa) - PySpark test helper methods with beautiful error messages
+
+## typescript 
+
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 
 ## vuejs 
 

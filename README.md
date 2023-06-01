@@ -134,6 +134,7 @@
 
 ## Python 
 
+- [SkalskiP/courses](https://github.com/SkalskiP/courses) - This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
 - [hbldh/bleak](https://github.com/hbldh/bleak) - A cross platform Bluetooth Low Energy Client for Python using asyncio
 - [JsBergbau/MiTemperature2](https://github.com/JsBergbau/MiTemperature2) - Read the values of the Xiaomi Mi Bluetooth Temperature sensor 2 including custom encrypted format.
 - [zewelor/bt-mqtt-gateway](https://github.com/zewelor/bt-mqtt-gateway) - A simple Python script which provides a Bluetooth to MQTT gateway, easily extensible via custom workers. See https://github.com/zewelor/bt-mqtt-gateway/wiki for more information.

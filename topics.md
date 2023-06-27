@@ -42,6 +42,7 @@
 - [flask](#flask)
 - [framework](#framework)
 - [frontend](#frontend)
+- [gamedev](#gamedev)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -303,6 +304,10 @@
 
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [rtivital/omatsuri](https://github.com/rtivital/omatsuri) - PWA with 12 open source frontend focused tools
+
+## gamedev 
+
+- [pygame-web/pygbag](https://github.com/pygame-web/pygbag) - python and pygame wasm for everyone ( packager + test server + simulator )
 
 ## git 
 

@@ -85,7 +85,7 @@
 
 ## Jupyter Notebook 
 
-- [andrasnagycon/AdvancedPyChapters](https://github.com/andrasnagycon/AdvancedPyChapters) - 
+- [andrasnagya/AdvancedPyChapters](https://github.com/andrasnagya/AdvancedPyChapters) - 
 - [databrickslabs/tempo](https://github.com/databrickslabs/tempo) - API for manipulating time series on top of Apache Spark: lagged time values, rolling statistics (mean, avg, sum, count, etc), AS OF joins, downsampling, and interpolation
 - [khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists) - Efficient Python Tricks and Tools for Data Scientists
 - [elastic/ember](https://github.com/elastic/ember) - Elastic Malware Benchmark for Empowering Researchers

@@ -156,6 +156,7 @@
 
 ## aws 
 
+- [lshw54/deepracer-autosubmit](https://github.com/lshw54/deepracer-autosubmit) - This is a simple macro based on selenium for AWS DeepRacer. You can use it to submit the current month's AWS Summit Online module.
 - [DoguD/aws-deepracer](https://github.com/DoguD/aws-deepracer) - Reward function experiments for AWS DeepRacer.
 - [adieuadieu/serverless-chrome](https://github.com/adieuadieu/serverless-chrome) - 🌐 Run headless Chrome/Chromium on AWS Lambda
 - [cahya-wirawan/deepracer-tools](https://github.com/cahya-wirawan/deepracer-tools) - Some tools for AWS  Deepracer

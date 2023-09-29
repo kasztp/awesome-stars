@@ -80,6 +80,7 @@
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
+- [r](#r)
 - [react](#react)
 - [robotics](#robotics)
 - [rust](#rust)
@@ -88,6 +89,7 @@
 - [security](#security)
 - [serverless](#serverless)
 - [software](#software)
+- [sql](#sql)
 - [statistics](#statistics)
 - [testing](#testing)
 - [typescript](#typescript)
@@ -361,6 +363,7 @@
 
 ## java 
 
+- [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 
 ## javascript 
@@ -563,6 +566,7 @@
 
 ## python 
 
+- [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
@@ -628,6 +632,10 @@
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
+## r 
+
+- [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
+
 ## react 
 
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
@@ -645,6 +653,7 @@
 
 ## scala 
 
+- [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [databrickslabs/tempo](https://github.com/databrickslabs/tempo) - API for manipulating time series on top of Apache Spark: lagged time values, rolling statistics (mean, avg, sum, count, etc), AS OF joins, downsampling, and interpolation
 
 ## scikit-learn 
@@ -666,6 +675,10 @@
 ## software 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## sql 
+
+- [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 
 ## statistics 
 

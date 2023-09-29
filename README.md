@@ -19,6 +19,7 @@
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
+- [Scala](#scala)
 - [Shell](#shell)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -216,6 +217,10 @@
 ## Rust 
 
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
+
+## Scala 
+
+- [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 
 ## Shell 
 

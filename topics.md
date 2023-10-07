@@ -75,6 +75,7 @@
 - [osint](#osint)
 - [others](#others)
 - [parsing](#parsing)
+- [penetration-testing](#penetration-testing)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [programming](#programming)
@@ -125,6 +126,7 @@
 
 ## artificial-intelligence 
 
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
@@ -163,6 +165,8 @@
 
 ## aws 
 
+- [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
+- [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [lshw54/deepracer-autosubmit](https://github.com/lshw54/deepracer-autosubmit) - This is a simple macro based on selenium for AWS DeepRacer. You can use it to submit the current month's AWS Summit Online module.
 - [DoguD/aws-deepracer](https://github.com/DoguD/aws-deepracer) - Reward function experiments for AWS DeepRacer.
 - [adieuadieu/serverless-chrome](https://github.com/adieuadieu/serverless-chrome) - 🌐 Run headless Chrome/Chromium on AWS Lambda
@@ -195,6 +199,7 @@
 
 ## cli 
 
+- [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 
 ## code 
@@ -213,6 +218,7 @@
 
 ## cpp 
 
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## css 
@@ -279,6 +285,7 @@
 
 ## django 
 
+- [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 
@@ -301,6 +308,7 @@
 
 ## flask 
 
+- [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 - [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
@@ -340,10 +348,20 @@
 
 ## hacking 
 
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## hacktoberfest 
 
+- [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
+- [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
+- [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
+- [dask/fastparquet](https://github.com/dask/fastparquet) - python implementation of the parquet columnar file format.
+- [poliastro/poliastro](https://github.com/poliastro/poliastro) - poliastro - :rocket: Astrodynamics in Python
+- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
@@ -561,6 +579,10 @@
 
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 
+## penetration-testing 
+
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+
 ## pixel-art 
 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
@@ -577,6 +599,11 @@
 
 ## python 
 
+- [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
+- [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
+- [poliastro/poliastro](https://github.com/poliastro/poliastro) - poliastro - :rocket: Astrodynamics in Python
+- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
@@ -673,10 +700,13 @@
 
 ## security 
 
+- [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## serverless 
 
+- [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -697,6 +727,7 @@
 
 ## testing 
 
+- [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [MrPowers/chispa](https://github.com/MrPowers/chispa) - PySpark test helper methods with beautiful error messages
 
 ## typescript 

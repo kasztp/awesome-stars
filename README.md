@@ -92,6 +92,7 @@
 
 ## Jupyter Notebook 
 
+- [ryanchynoweth44/DatabricksContent](https://github.com/ryanchynoweth44/DatabricksContent) - Examples surrounding Databricks.
 - [andrasnagya/AdvancedPyChapters](https://github.com/andrasnagya/AdvancedPyChapters) - 
 - [databrickslabs/tempo](https://github.com/databrickslabs/tempo) - API for manipulating time series on top of Apache Spark: lagged time values, rolling statistics (mean, avg, sum, count, etc), AS OF joins, downsampling, and interpolation
 - [khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists) - Efficient Python Tricks and Tools for Data Scientists
@@ -110,6 +111,7 @@
 
 ## Others 
 
+- [tfayyaz/awesome-azure-databricks](https://github.com/tfayyaz/awesome-azure-databricks) - Awesome content all about Azure Databricks
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [pygame-web/pygame-web.github.io](https://github.com/pygame-web/pygame-web.github.io) - Run python and pygame code in your html
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page

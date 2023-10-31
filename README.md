@@ -156,7 +156,6 @@
 - [hbldh/bleak](https://github.com/hbldh/bleak) - A cross platform Bluetooth Low Energy Client for Python using asyncio
 - [JsBergbau/MiTemperature2](https://github.com/JsBergbau/MiTemperature2) - Read the values of the Xiaomi Mi Bluetooth Temperature sensor 2 including custom encrypted format.
 - [zewelor/bt-mqtt-gateway](https://github.com/zewelor/bt-mqtt-gateway) - A simple Python script which provides a Bluetooth to MQTT gateway, easily extensible via custom workers. See https://github.com/zewelor/bt-mqtt-gateway/wiki for more information.
-- [hobbypunk90/mithermometer](https://github.com/hobbypunk90/mithermometer) - 
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [faster-cpython/cpython](https://github.com/faster-cpython/cpython) - The Python programming language
 - [mriale/PyDPainter](https://github.com/mriale/PyDPainter) - A usable pixel art paint program written in Python

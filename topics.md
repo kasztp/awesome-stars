@@ -525,6 +525,8 @@
 
 ## others 
 
+- [microsoft/vscode-data-wrangler](https://github.com/microsoft/vscode-data-wrangler) - 
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [ryanchynoweth44/DatabricksContent](https://github.com/ryanchynoweth44/DatabricksContent) - Examples surrounding Databricks.
 - [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code

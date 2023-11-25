@@ -540,6 +540,7 @@
 
 ## others 
 
+- [annapanni/mandelbrot_generator](https://github.com/annapanni/mandelbrot_generator) - Collection of programs generating the mandelbrot set
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [aws-deepracer-community/deepracer-for-cloud](https://github.com/aws-deepracer-community/deepracer-for-cloud) - Creates an AWS DeepRacing training environment which can be deployed in the cloud, or locally on Ubuntu Linux, Windows or Mac.
 - [microsoft/vscode-data-wrangler](https://github.com/microsoft/vscode-data-wrangler) - 

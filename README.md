@@ -146,6 +146,8 @@
 
 ## Python 
 
+- [OpenMiHome/mihome-binary-protocol](https://github.com/OpenMiHome/mihome-binary-protocol) - 
+- [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool/script retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
 - [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks

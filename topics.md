@@ -540,6 +540,8 @@
 
 ## others 
 
+- [OpenMiHome/mihome-binary-protocol](https://github.com/OpenMiHome/mihome-binary-protocol) - 
+- [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool/script retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
 - [annapanni/mandelbrot_generator](https://github.com/annapanni/mandelbrot_generator) - Collection of programs generating the mandelbrot set
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [aws-deepracer-community/deepracer-for-cloud](https://github.com/aws-deepracer-community/deepracer-for-cloud) - Creates an AWS DeepRacing training environment which can be deployed in the cloud, or locally on Ubuntu Linux, Windows or Mac.

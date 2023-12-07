@@ -147,6 +147,7 @@
 
 ## Python 
 
+- [robmarkcole/HASS-data-detective](https://github.com/robmarkcole/HASS-data-detective) - Explore and analyse your Home Assistant data
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
 - [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources, finds the best results using a reader LLM, then prompts Generative AI, enabling you to get answer
 - [OpenMiHome/mihome-binary-protocol](https://github.com/OpenMiHome/mihome-binary-protocol) - 
@@ -249,6 +250,7 @@
 
 ## Shell 
 
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [aws-deepracer-community/deepracer-for-cloud](https://github.com/aws-deepracer-community/deepracer-for-cloud) - Creates an AWS DeepRacing training environment which can be deployed in the cloud, or locally on Ubuntu Linux, Windows or Mac.
 - [cdarlint/winutils](https://github.com/cdarlint/winutils) - winutils.exe hadoop.dll and hdfs.dll binaries for hadoop windows

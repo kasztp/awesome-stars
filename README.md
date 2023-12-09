@@ -78,7 +78,7 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [aholstenson/miio](https://github.com/aholstenson/miio) - Control Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -147,6 +147,7 @@
 
 ## Python 
 
+- [timmo001/homeassistant-integration-supabase-export](https://github.com/timmo001/homeassistant-integration-supabase-export) - Home Assistant Integration - Supabase Export
 - [robmarkcole/HASS-data-detective](https://github.com/robmarkcole/HASS-data-detective) - Explore and analyse your Home Assistant data
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
 - [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources, finds the best results using a reader LLM, then prompts Generative AI, enabling you to get answer
@@ -250,6 +251,7 @@
 
 ## Shell 
 
+- [jak119/hassio-backup-azure-blob](https://github.com/jak119/hassio-backup-azure-blob) - Hass.io add-on to easily backup snapshots to an Azure Storage Account.
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [aws-deepracer-community/deepracer-for-cloud](https://github.com/aws-deepracer-community/deepracer-for-cloud) - Creates an AWS DeepRacing training environment which can be deployed in the cloud, or locally on Ubuntu Linux, Windows or Mac.

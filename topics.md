@@ -399,7 +399,6 @@
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
-- [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [dask/fastparquet](https://github.com/dask/fastparquet) - python implementation of the parquet columnar file format.
 - [poliastro/poliastro](https://github.com/poliastro/poliastro) - poliastro - :rocket: Astrodynamics in Python
@@ -618,7 +617,7 @@
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [pygame-web/pygame-web.github.io](https://github.com/pygame-web/pygame-web.github.io) - Run python and pygame code in your html
-- [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) - 
+- [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
 - [databrickslabs/dlt-meta](https://github.com/databrickslabs/dlt-meta) - This is metadata driven DLT based framework for bronze/silver pipelines
 - [databricks/databricks-cli](https://github.com/databricks/databricks-cli) - (Legacy) Command Line Interface for Databricks
 - [MrPowers/mack](https://github.com/MrPowers/mack) - Delta Lake helper methods in PySpark

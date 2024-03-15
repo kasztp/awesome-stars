@@ -153,6 +153,7 @@
 
 ## Python 
 
+- [getyourguide/TypedPyspark](https://github.com/getyourguide/TypedPyspark) - Type-annotate your spark dataframes and validate them
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [csmai/job_scraping](https://github.com/csmai/job_scraping) - 
 - [databrickslabs/ucx](https://github.com/databrickslabs/ucx) - Your best companion for upgrading to Unity Catalog. UCX will guide you, the Databricks customer, through the process of upgrading your account, groups, workspaces, jobs etc. to Unity Catalog.

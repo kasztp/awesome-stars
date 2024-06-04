@@ -299,7 +299,7 @@
 
 ## Vue 
 
-- [streamsync-cloud/streamsync](https://github.com/streamsync-cloud/streamsync) - No-code in the front, Python in the back. An open-source framework for creating data apps.
+- [writerai/writer-framework](https://github.com/writerai/writer-framework) - No-code in the front, Python in the back. An open-source framework for creating data apps.
 
 
 ## License

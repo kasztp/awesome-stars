@@ -600,6 +600,7 @@
 
 ## others 
 
+- [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - :sparkles::sparkles:Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.
 - [Nike-Inc/brickflow](https://github.com/Nike-Inc/brickflow) - Pythonic Programming Framework to orchestrate jobs in Databricks Workflow
 - [danielbeach/lakescum](https://github.com/danielbeach/lakescum) - A Python package to help Databricks Unity Catalog users to read and query Delta Lake tables with Polars, DuckDb, or PyArrow.
 - [martinkarlssonio/big-data-solution](https://github.com/martinkarlssonio/big-data-solution) - 

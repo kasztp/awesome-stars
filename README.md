@@ -300,7 +300,7 @@
 
 ## Vue 
 
-- [writerai/writer-framework](https://github.com/writerai/writer-framework) - No-code in the front, Python in the back. An open-source framework for creating data apps.
+- [writer/writer-framework](https://github.com/writer/writer-framework) - No-code in the front, Python in the back. An open-source framework for creating data apps.
 
 
 ## License

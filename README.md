@@ -158,7 +158,7 @@
 - [getyourguide/TypedPyspark](https://github.com/getyourguide/TypedPyspark) - Type-annotate your spark dataframes and validate them
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [csmai/job_scraping](https://github.com/csmai/job_scraping) - 
-- [databrickslabs/ucx](https://github.com/databrickslabs/ucx) - Your best companion for upgrading to Unity Catalog. UCX will guide you, the Databricks customer, through the process of upgrading your account, groups, workspaces, jobs etc. to Unity Catalog.
+- [databrickslabs/ucx](https://github.com/databrickslabs/ucx) - Automated migrations to Unity Catalog
 - [palantir/pyspark-style-guide](https://github.com/palantir/pyspark-style-guide) - This is a guide to PySpark code style presenting common situations and the associated best practices based on the most frequent recurring topics across the PySpark repos we've encountered.
 - [hastagAB/Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs.
 - [timmo001/homeassistant-integration-supabase-export](https://github.com/timmo001/homeassistant-integration-supabase-export) - Home Assistant Integration - Supabase Export

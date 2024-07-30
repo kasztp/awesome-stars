@@ -99,6 +99,7 @@
 
 ## Jupyter Notebook 
 
+- [smart-underworld/seestar_run](https://github.com/smart-underworld/seestar_run) - 
 - [ryanchynoweth44/DatabricksContent](https://github.com/ryanchynoweth44/DatabricksContent) - Examples surrounding Databricks.
 - [andrasnagya/AdvancedPyChapters](https://github.com/andrasnagya/AdvancedPyChapters) - 
 - [databrickslabs/tempo](https://github.com/databrickslabs/tempo) - API for manipulating time series on top of Apache Spark: lagged time values, rolling statistics (mean, avg, sum, count, etc), AS OF joins, downsampling, and interpolation
@@ -153,6 +154,7 @@
 
 ## Python 
 
+- [smart-underworld/seestar_alp](https://github.com/smart-underworld/seestar_alp) - Complete Control and Automation for Seestar S50
 - [Nike-Inc/brickflow](https://github.com/Nike-Inc/brickflow) - Pythonic Programming Framework to orchestrate jobs in Databricks Workflow
 - [danielbeach/lakescum](https://github.com/danielbeach/lakescum) - A Python package to help Databricks Unity Catalog users to read and query Delta Lake tables with Polars, DuckDb, or PyArrow.
 - [getyourguide/TypedPyspark](https://github.com/getyourguide/TypedPyspark) - Type-annotate your spark dataframes and validate them
@@ -222,7 +224,7 @@
 - [s0md3v/Zen](https://github.com/s0md3v/Zen) - Find emails of Github users
 - [MrPowers/chispa](https://github.com/MrPowers/chispa) - PySpark test helper methods with beautiful error messages
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.

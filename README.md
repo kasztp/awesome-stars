@@ -47,7 +47,6 @@
 
 ## C++ 
 
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [nickbild/tflite_c64](https://github.com/nickbild/tflite_c64) - Run inferences using TensorFlow Lite for Microcontrollers on a Commodore 64.
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
@@ -263,6 +262,7 @@
 
 ## Rust 
 
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 
 ## Scala 

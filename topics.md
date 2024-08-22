@@ -98,6 +98,7 @@
 - [pytorch](#pytorch)
 - [r](#r)
 - [react](#react)
+- [reinforcement-learning](#reinforcement-learning)
 - [robotics](#robotics)
 - [rust](#rust)
 - [scala](#scala)
@@ -819,6 +820,11 @@
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [rtivital/omatsuri](https://github.com/rtivital/omatsuri) - PWA with 12 open source frontend focused tools
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
+
+## reinforcement-learning 
+
+- [DoguD/aws-deepracer](https://github.com/DoguD/aws-deepracer) - Reward function experiments for AWS DeepRacer.
+- [cahya-wirawan/deepracer-tools](https://github.com/cahya-wirawan/deepracer-tools) - Some tools for AWS  Deepracer
 
 ## robotics 
 

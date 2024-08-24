@@ -651,7 +651,7 @@
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [pygame-web/pygame-web.github.io](https://github.com/pygame-web/pygame-web.github.io) - Run python and pygame code in your html
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
-- [databrickslabs/dlt-meta](https://github.com/databrickslabs/dlt-meta) - This is metadata driven DLT based framework for bronze/silver pipelines
+- [databrickslabs/dlt-meta](https://github.com/databrickslabs/dlt-meta) - Metadata driven Databricks Delta Live Tables framework for bronze/silver pipelines
 - [databricks/databricks-cli](https://github.com/databricks/databricks-cli) - (Legacy) Command Line Interface for Databricks
 - [MrPowers/mack](https://github.com/MrPowers/mack) - Delta Lake helper methods in PySpark
 - [databrickslabs/dbx](https://github.com/databrickslabs/dbx) - 🧱 Databricks CLI eXtensions - aka dbx is a CLI tool for development and advanced Databricks workflows management.

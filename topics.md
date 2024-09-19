@@ -85,6 +85,7 @@
 - [nodejs](#nodejs)
 - [numpy](#numpy)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opencv](#opencv)
 - [osint](#osint)
 - [others](#others)
@@ -610,6 +611,12 @@
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
+## openai 
+
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
+- [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
 ## opencv 
 
 - [carlospuenteg/Photomosaic-Creator](https://github.com/carlospuenteg/Photomosaic-Creator) - This script allows you to create a photomosaic from a set of images.
@@ -621,6 +628,8 @@
 
 ## others 
 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain-databricks](https://github.com/langchain-ai/langchain-databricks) - 
 - [aws-deepracer-community/deepracer-for-cloud](https://github.com/aws-deepracer-community/deepracer-for-cloud) - Creates an AWS DeepRacing training environment which can be deployed in the cloud, or locally on Ubuntu Linux, Windows or Mac.
 - [smart-underworld/seestar_alp](https://github.com/smart-underworld/seestar_alp) - Complete Control and Automation for Seestar S50
 - [smart-underworld/seestar_run](https://github.com/smart-underworld/seestar_run) - 

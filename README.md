@@ -26,7 +26,6 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Verilog](#verilog)
-- [Vue](#vue)
 
 ## C 
 
@@ -201,6 +200,7 @@
 - [zewelor/bt-mqtt-gateway](https://github.com/zewelor/bt-mqtt-gateway) - A simple Python script which provides a Bluetooth to MQTT gateway, easily extensible via custom workers. See https://github.com/zewelor/bt-mqtt-gateway/wiki for more information.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [faster-cpython/cpython](https://github.com/faster-cpython/cpython) - The Python programming language
+- [writer/writer-framework](https://github.com/writer/writer-framework) - No-code in the front, Python in the back. An open-source framework for creating data apps.
 - [mriale/PyDPainter](https://github.com/mriale/PyDPainter) - A usable pixel art paint program written in Python
 - [databricks/ide-best-practices](https://github.com/databricks/ide-best-practices) - Best practices for working with Databricks from an IDE
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
@@ -306,10 +306,6 @@
 ## Verilog 
 
 - [nonarkitten/amiga_replacement_project](https://github.com/nonarkitten/amiga_replacement_project) - This is an attempt to make clean Verilog sources for each chip on the Amiga.
-
-## Vue 
-
-- [writer/writer-framework](https://github.com/writer/writer-framework) - No-code in the front, Python in the back. An open-source framework for creating data apps.
 
 
 ## License

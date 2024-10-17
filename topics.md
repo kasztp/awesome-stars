@@ -637,6 +637,7 @@
 
 ## others 
 
+- [mrpowers-io/quinn](https://github.com/mrpowers-io/quinn) - pyspark methods to enhance developer productivity 📣 👯 🎉
 - [mariotaku/ihsplay](https://github.com/mariotaku/ihsplay) - Steam In-Home Streaming Client Application
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [langchain-ai/langchain-databricks](https://github.com/langchain-ai/langchain-databricks) - 

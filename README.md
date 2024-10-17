@@ -161,6 +161,7 @@
 
 ## Python 
 
+- [mrpowers-io/quinn](https://github.com/mrpowers-io/quinn) - pyspark methods to enhance developer productivity 📣 👯 🎉
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [mosaicml/streaming](https://github.com/mosaicml/streaming) - A Data Streaming Library for Efficient Neural Network Training
 - [langchain-ai/langchain-databricks](https://github.com/langchain-ai/langchain-databricks) - 

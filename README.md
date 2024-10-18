@@ -161,6 +161,10 @@
 
 ## Python 
 
+- [databricks/databricks-sdk-py](https://github.com/databricks/databricks-sdk-py) - Databricks SDK for Python (Beta)
+- [tonybaloney/perflint](https://github.com/tonybaloney/perflint) - Python Linter for performance anti patterns
+- [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
+- [SamirPaulb/DSAlgo](https://github.com/SamirPaulb/DSAlgo) - 📚A repository that contains all the Data Structures and Algorithms concepts and solutions to various problems in Python3 stored in a structured manner.👨‍💻🎯
 - [mrpowers-io/quinn](https://github.com/mrpowers-io/quinn) - pyspark methods to enhance developer productivity 📣 👯 🎉
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [mosaicml/streaming](https://github.com/mosaicml/streaming) - A Data Streaming Library for Efficient Neural Network Training
@@ -279,6 +283,7 @@
 
 ## Scala 
 
+- [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 
 ## Shell 

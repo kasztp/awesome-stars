@@ -650,6 +650,7 @@
 
 ## others 
 
+- [snok/install-poetry](https://github.com/snok/install-poetry) - Github action for installing and configuring Poetry
 - [databrickslabs/remorph](https://github.com/databrickslabs/remorph) - Cross-compiler and Data Reconciler into Databricks Lakehouse
 - [mrpowers-io/quinn](https://github.com/mrpowers-io/quinn) - pyspark methods to enhance developer productivity 📣 👯 🎉
 - [mariotaku/ihsplay](https://github.com/mariotaku/ihsplay) - Steam In-Home Streaming Client Application

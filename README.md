@@ -289,6 +289,7 @@
 
 ## Shell 
 
+- [snok/install-poetry](https://github.com/snok/install-poetry) - Github action for installing and configuring Poetry
 - [aws-deepracer-community/deepracer-for-cloud](https://github.com/aws-deepracer-community/deepracer-for-cloud) - Creates an AWS DeepRacing training environment which can be deployed in the cloud, or locally on Ubuntu Linux, Windows or Mac.
 - [jak119/hassio-backup-azure-blob](https://github.com/jak119/hassio-backup-azure-blob) - Hass.io add-on to easily backup snapshots to an Azure Storage Account.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.

@@ -651,7 +651,7 @@
 ## others 
 
 - [snok/install-poetry](https://github.com/snok/install-poetry) - Github action for installing and configuring Poetry
-- [databrickslabs/remorph](https://github.com/databrickslabs/remorph) - Cross-compiler and Data Reconciler into Databricks Lakehouse
+- [databrickslabs/remorph](https://github.com/databrickslabs/remorph) - Accelerates migrations to Databricks by automating code conversion and migration validation
 - [mrpowers-io/quinn](https://github.com/mrpowers-io/quinn) - pyspark methods to enhance developer productivity 📣 👯 🎉
 - [mariotaku/ihsplay](https://github.com/mariotaku/ihsplay) - Steam In-Home Streaming Client Application
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications

@@ -728,7 +728,7 @@
 - [aws-samples/lambda-web-scraper-example](https://github.com/aws-samples/lambda-web-scraper-example) - An example of a web scraper running on AWS Lambda and Lambda Layers
 - [terriblefire/terriblefire-binaries](https://github.com/terriblefire/terriblefire-binaries) - 
 - [Staringlizard/amiv](https://github.com/Staringlizard/amiv) - Amiga RGB to HDMI converter
-- [grovdata/Amiga_Sources](https://github.com/grovdata/Amiga_Sources) - A compiled list of sources and hardware related to classic Commodore Amiga computers.
+- [grovdata/Amiga_Sources](https://github.com/grovdata/Amiga_Sources) - A collection of of sources and hardware related to classic Commodore Amiga computers.
 - [niklasekstrom/boing_ball_python](https://github.com/niklasekstrom/boing_ball_python) - A bouncing ball (the Amiga boing ball) written in Python using Pygame.
 - [federicohaag/LinkedInScraping](https://github.com/federicohaag/LinkedInScraping) - Scraping of LinkedIn Profiles: Creates an Excel file containing the personal data and the last job position of all the provided LinkedIn profiles.
 - [mikhailklassen/Mining-the-Social-Web-3rd-Edition](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition) - The official online compendium for Mining the Social Web, 3rd Edition (O'Reilly, 2018)

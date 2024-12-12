@@ -274,7 +274,7 @@
 - [chrisconlan/fast-python](https://github.com/chrisconlan/fast-python) - Source code for Fast Python (2020) by Chris Conlan
 - [pauleveritt/42-workshop](https://github.com/pauleveritt/42-workshop) - Workshop material for 42 PyCharm Tips and Tricks
 - [mvasilkov/kb](https://github.com/mvasilkov/kb) - Kivy Blueprints
-- [bslatkin/effectivepython](https://github.com/bslatkin/effectivepython) - Effective Python: Second Edition — Source Code and Errata for the Book
+- [bslatkin/effectivepython](https://github.com/bslatkin/effectivepython) - Effective Python: Third Edition — Source Code and Errata for the Book
 
 ## Rust 
 

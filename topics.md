@@ -740,7 +740,7 @@
 - [mvasilkov/kb](https://github.com/mvasilkov/kb) - Kivy Blueprints
 - [pjreddie/TopDeepLearning](https://github.com/pjreddie/TopDeepLearning) - A list of popular github projects related to deep learning
 - [eleanorlutz/mars_geology_atlas_of_space](https://github.com/eleanorlutz/mars_geology_atlas_of_space) - Code and instructions for making a geologic map of Mars
-- [bslatkin/effectivepython](https://github.com/bslatkin/effectivepython) - Effective Python: Second Edition — Source Code and Errata for the Book
+- [bslatkin/effectivepython](https://github.com/bslatkin/effectivepython) - Effective Python: Third Edition — Source Code and Errata for the Book
 
 ## parsing 
 

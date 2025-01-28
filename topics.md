@@ -786,6 +786,7 @@
 
 ## python 
 
+- [datamole-ai/pysparkdt](https://github.com/datamole-ai/pysparkdt) - An open-source Python library for simplifying local testing of Databricks workflows that use PySpark and Delta tables.
 - [databricks/databricks-sdk-py](https://github.com/databricks/databricks-sdk-py) - Databricks SDK for Python (Beta)
 - [tonybaloney/perflint](https://github.com/tonybaloney/perflint) - Python Linter for performance anti patterns
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
@@ -959,6 +960,7 @@
 
 ## testing 
 
+- [datamole-ai/pysparkdt](https://github.com/datamole-ai/pysparkdt) - An open-source Python library for simplifying local testing of Databricks workflows that use PySpark and Delta tables.
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [MrPowers/chispa](https://github.com/MrPowers/chispa) - PySpark test helper methods with beautiful error messages
 

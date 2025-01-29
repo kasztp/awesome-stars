@@ -662,6 +662,7 @@
 
 ## others 
 
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 
 - [databrickslabs/dqx](https://github.com/databrickslabs/dqx) - Databricks framework to validate Data Quality of pySpark DataFrames
 - [snok/install-poetry](https://github.com/snok/install-poetry) - Github action for installing and configuring Poetry
 - [databrickslabs/remorph](https://github.com/databrickslabs/remorph) - Accelerates migrations to Databricks by automating code conversion and migration validation

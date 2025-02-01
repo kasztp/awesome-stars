@@ -662,6 +662,7 @@
 
 ## others 
 
+- [pbv0/databricks-apps-cookbook](https://github.com/pbv0/databricks-apps-cookbook) - Ready-to-use code snippets for building interactive data applications using Databricks Apps.
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 
 - [databrickslabs/dqx](https://github.com/databrickslabs/dqx) - Databricks framework to validate Data Quality of pySpark DataFrames
 - [snok/install-poetry](https://github.com/snok/install-poetry) - Github action for installing and configuring Poetry

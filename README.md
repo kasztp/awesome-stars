@@ -167,6 +167,7 @@
 
 ## Python 
 
+- [benitomartin/mlops-databricks-credit-default](https://github.com/benitomartin/mlops-databricks-credit-default) - End-to-end MLOps Credit Default Project using DABs
 - [pbv0/databricks-apps-cookbook](https://github.com/pbv0/databricks-apps-cookbook) - Ready-to-use code snippets for building interactive data applications using Databricks Apps.
 - [datamole-ai/pysparkdt](https://github.com/datamole-ai/pysparkdt) - An open-source Python library for simplifying local testing of Databricks workflows that use PySpark and Delta tables.
 - [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict) - Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning

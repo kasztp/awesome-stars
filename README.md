@@ -84,6 +84,7 @@
 
 ## JavaScript 
 
+- [rustamyusupov/faster-road-racing](https://github.com/rustamyusupov/faster-road-racing) - Faster Road Racing "5k to half marathon". Pete Pfitzinger
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [aholstenson/miio](https://github.com/aholstenson/miio) - Control Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more
@@ -133,7 +134,7 @@
 
 ## Others 
 
-- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
 - [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - :sparkles::sparkles:Latest Advances on Multimodal Large Language Models
 - [microsoft/vscode-data-wrangler](https://github.com/microsoft/vscode-data-wrangler) - 
 - [tfayyaz/awesome-azure-databricks](https://github.com/tfayyaz/awesome-azure-databricks) - Awesome content all about Azure Databricks

@@ -138,6 +138,7 @@
 
 ## ai 
 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
@@ -495,6 +496,7 @@
 
 ## home-assistant 
 
+- [sockless-coding/panasonic_cc](https://github.com/sockless-coding/panasonic_cc) - Panasonic Comfort Cloud - Home Assistant Component
 - [timmo001/homeassistant-integration-supabase-export](https://github.com/timmo001/homeassistant-integration-supabase-export) - Home Assistant Integration - Supabase Export
 - [jak119/hassio-backup-azure-blob](https://github.com/jak119/hassio-backup-azure-blob) - Hass.io add-on to easily backup snapshots to an Azure Storage Account.
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
@@ -818,6 +820,7 @@
 
 ## python 
 
+- [sockless-coding/panasonic_cc](https://github.com/sockless-coding/panasonic_cc) - Panasonic Comfort Cloud - Home Assistant Component
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.

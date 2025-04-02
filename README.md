@@ -139,6 +139,7 @@
 
 ## Others 
 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
 - [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - :sparkles::sparkles:Latest Advances on Multimodal Large Language Models
 - [microsoft/vscode-data-wrangler](https://github.com/microsoft/vscode-data-wrangler) - 
@@ -172,6 +173,7 @@
 
 ## Python 
 
+- [sockless-coding/panasonic_cc](https://github.com/sockless-coding/panasonic_cc) - Panasonic Comfort Cloud - Home Assistant Component
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [pbv0/databricks-apps-cookbook](https://github.com/pbv0/databricks-apps-cookbook) - Ready-to-use code snippets for building interactive data applications using Databricks Apps.

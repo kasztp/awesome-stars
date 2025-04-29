@@ -700,6 +700,7 @@
 
 ## others 
 
+- [etched-ai/open-oasis](https://github.com/etched-ai/open-oasis) - Inference script for Oasis 500M
 - [coredevices/pebble](https://github.com/coredevices/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
 - [pbv0/databricks-apps-cookbook](https://github.com/pbv0/databricks-apps-cookbook) - Ready-to-use code snippets for building interactive data applications using Databricks Apps.
 - [rustamyusupov/faster-road-racing](https://github.com/rustamyusupov/faster-road-racing) - Faster Road Racing "5k to half marathon". Pete Pfitzinger

@@ -770,7 +770,7 @@
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [PacktPublishing/40-Algorithms-Every-Programmer-Should-Know](https://github.com/PacktPublishing/40-Algorithms-Every-Programmer-Should-Know) - 40 Algorithms Every Programmer Should Know, published by Packt
 - [insightindustry/validator-collection](https://github.com/insightindustry/validator-collection) - Python library of 60+ commonly-used validator functions
-- [fox-archives/awesome-icons](https://github.com/fox-archives/awesome-icons) - A collection of Awesome resources related to icon and icon design!
+- [hyperupcall-archive/awesome-icons](https://github.com/hyperupcall-archive/awesome-icons) - A collection of Awesome resources related to icon and icon design!
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [captain-amygdala/pistorm](https://github.com/captain-amygdala/pistorm) - 68k Hardware Emulator
 - [Widdershin/flask-desktop](https://github.com/Widdershin/flask-desktop) - flask-desktop lets you create first class desktop applications in Python with HTML/CSS

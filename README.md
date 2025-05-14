@@ -156,7 +156,7 @@
 - [stereobooster/programming-languages-genealogical-tree](https://github.com/stereobooster/programming-languages-genealogical-tree) - Programming languages genealogical tree
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [fox-archives/awesome-icons](https://github.com/fox-archives/awesome-icons) - A collection of Awesome resources related to icon and icon design!
+- [hyperupcall-archive/awesome-icons](https://github.com/hyperupcall-archive/awesome-icons) - A collection of Awesome resources related to icon and icon design!
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics

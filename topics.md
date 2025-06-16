@@ -9,6 +9,7 @@
 - [ai](#ai)
 - [algorithm](#algorithm)
 - [analytics](#analytics)
+- [android](#android)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
@@ -34,6 +35,7 @@
 - [cryptography](#cryptography)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
+- [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
@@ -51,6 +53,7 @@
 - [education](#education)
 - [electron](#electron)
 - [flask](#flask)
+- [flutter](#flutter)
 - [framework](#framework)
 - [frontend](#frontend)
 - [gamedev](#gamedev)
@@ -64,15 +67,18 @@
 - [html](#html)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [ios](#ios)
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
 - [json](#json)
 - [julia](#julia)
 - [jupyter-notebook](#jupyter-notebook)
+- [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [learning](#learning)
+- [library](#library)
 - [linux](#linux)
 - [llm](#llm)
 - [low-code](#low-code)
@@ -100,6 +106,7 @@
 - [pentesting](#pentesting)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
+- [productivity](#productivity)
 - [programming](#programming)
 - [python](#python)
 - [python3](#python3)
@@ -107,6 +114,7 @@
 - [r](#r)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
+- [react-native](#react-native)
 - [reinforcement-learning](#reinforcement-learning)
 - [robotics](#robotics)
 - [rust](#rust)
@@ -121,6 +129,7 @@
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
+- [swift](#swift)
 - [tailwind](#tailwind)
 - [tensorflow](#tensorflow)
 - [testing](#testing)
@@ -141,6 +150,7 @@
 
 ## ai 
 
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -163,6 +173,10 @@
 ## analytics 
 
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+
+## android 
+
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.
 
 ## api 
 
@@ -322,6 +336,10 @@
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
+## dart 
+
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.
+
 ## data 
 
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
@@ -431,8 +449,13 @@
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 
+## flutter 
+
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.
+
 ## framework 
 
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [GenieFramework/Genie.jl](https://github.com/GenieFramework/Genie.jl) - 🧞The highly productive Julia web framework
 
@@ -528,6 +551,10 @@
 
 - [carlospuenteg/Photomosaic-Creator](https://github.com/carlospuenteg/Photomosaic-Creator) - This script allows you to create a photomosaic from a set of images.
 
+## ios 
+
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.
+
 ## iot 
 
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -540,6 +567,7 @@
 
 ## javascript 
 
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -560,6 +588,10 @@
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 
+## kotlin 
+
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.
+
 ## kubernetes 
 
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
@@ -575,6 +607,10 @@
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 
+## library 
+
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.
+
 ## linux 
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -586,6 +622,7 @@
 
 ## llm 
 
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
@@ -634,6 +671,7 @@
 
 ## mobile 
 
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
 
 ## music 
@@ -826,6 +864,10 @@
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 
+## productivity 
+
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+
 ## programming 
 
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -945,6 +987,10 @@
 - [rtivital/omatsuri](https://github.com/rtivital/omatsuri) - PWA with 12 open source frontend focused tools
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 
+## react-native 
+
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.
+
 ## reinforcement-learning 
 
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -1017,6 +1063,10 @@
 
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
 
+## swift 
+
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.
+
 ## tailwind 
 
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
@@ -1033,6 +1083,7 @@
 
 ## typescript 
 
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 

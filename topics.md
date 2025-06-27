@@ -67,6 +67,7 @@
 - [html](#html)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [information-gathering](#information-gathering)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -550,6 +551,11 @@
 ## image-processing 
 
 - [carlospuenteg/Photomosaic-Creator](https://github.com/carlospuenteg/Photomosaic-Creator) - This script allows you to create a photomosaic from a set of images.
+
+## information-gathering 
+
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+- [s0md3v/Zen](https://github.com/s0md3v/Zen) - Find emails of Github users
 
 ## ios 
 

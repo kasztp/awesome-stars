@@ -47,7 +47,7 @@
 
 ## C++ 
 
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - A cross-platform framework for deploying LLMs, VLMs, Embedding Models, TTS models and more locally on smartphones.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [nickbild/tflite_c64](https://github.com/nickbild/tflite_c64) - Run inferences using TensorFlow Lite for Microcontrollers on a Commodore 64.
@@ -329,6 +329,7 @@
 
 ## TypeScript 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol

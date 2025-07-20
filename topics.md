@@ -26,6 +26,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [cli](#cli)
+- [cms](#cms)
 - [code](#code)
 - [coding](#coding)
 - [computer-science](#computer-science)
@@ -290,6 +291,11 @@
 
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+
+## cms 
+
+- [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
+- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 
 ## code 
 

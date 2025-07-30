@@ -6,6 +6,7 @@
 ## Contents
 
 - [C](#c)
+- [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [Cuda](#cuda)
@@ -45,8 +46,13 @@
 - [michalsc/Emu68](https://github.com/michalsc/Emu68) - M68K emulation for AArch64/AArch32
 - [Staringlizard/amiv](https://github.com/Staringlizard/amiv) - Amiga RGB to HDMI converter
 
+## C# # 
+
+- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
+
 ## C++ 
 
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Cross-platform framework for deploying LLM/VLM/TTS models locally on smartphones.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
@@ -83,6 +89,7 @@
 
 ## JavaScript 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [rustamyusupov/faster-road-racing](https://github.com/rustamyusupov/faster-road-racing) - Faster Road Racing "5k to half marathon". Pete Pfitzinger
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
@@ -104,6 +111,9 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
+- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
 - [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [smart-underworld/seestar_run](https://github.com/smart-underworld/seestar_run) - 
@@ -139,6 +149,7 @@
 
 ## Others 
 
+- [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The paper list of the 86-page paper "The Rise and Potential of Large Language Model Based Agents: A Survey" by Zhiheng Xi et al.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
 - [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - :sparkles::sparkles:Latest Advances on Multimodal Large Language Models
@@ -173,6 +184,7 @@
 
 ## Python 
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [etched-ai/open-oasis](https://github.com/etched-ai/open-oasis) - Inference script for Oasis 500M

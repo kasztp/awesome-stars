@@ -189,7 +189,7 @@
 - [sockless-coding/panasonic_cc](https://github.com/sockless-coding/panasonic_cc) - Panasonic Comfort Cloud - Home Assistant Component
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
-- [databricks-solutions/databricks-apps-cookbook](https://github.com/databricks-solutions/databricks-apps-cookbook) - Ready-to-use code snippets for building interactive data applications using Databricks Apps.
+- [databricks-solutions/databricks-apps-cookbook](https://github.com/databricks-solutions/databricks-apps-cookbook) - Ready-to-use code snippets for building interactive Databricks Apps.
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [benitomartin/mlops-databricks-credit-default](https://github.com/benitomartin/mlops-databricks-credit-default) - Financial Risk Assessment System
 - [datamole-ai/pysparkdt](https://github.com/datamole-ai/pysparkdt) - An open-source Python library for simplifying local testing of Databricks workflows that use PySpark and Delta tables.

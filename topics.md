@@ -206,6 +206,7 @@
 
 ## automation 
 
+- [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [angrykoala/awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) - Curated list of awesome browser automation tools and resources
 
@@ -929,7 +930,6 @@
 - [sockless-coding/panasonic_cc](https://github.com/sockless-coding/panasonic_cc) - Panasonic Comfort Cloud - Home Assistant Component
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
-- [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [benitomartin/mlops-databricks-credit-default](https://github.com/benitomartin/mlops-databricks-credit-default) - Financial Risk Assessment System
 - [datamole-ai/pysparkdt](https://github.com/datamole-ai/pysparkdt) - An open-source Python library for simplifying local testing of Databricks workflows that use PySpark and Delta tables.
 - [databricks/databricks-sdk-py](https://github.com/databricks/databricks-sdk-py) - Databricks SDK for Python (Beta)
@@ -1129,6 +1129,7 @@
 
 ## testing 
 
+- [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [datamole-ai/pysparkdt](https://github.com/datamole-ai/pysparkdt) - An open-source Python library for simplifying local testing of Databricks workflows that use PySpark and Delta tables.
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [MrPowers/chispa](https://github.com/MrPowers/chispa) - PySpark test helper methods with beautiful error messages

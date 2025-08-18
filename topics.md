@@ -33,6 +33,7 @@
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
+- [crawler](#crawler)
 - [cryptography](#cryptography)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -340,6 +341,11 @@
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+## crawler 
+
+- [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 
 ## cryptography 
 

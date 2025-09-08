@@ -30,6 +30,7 @@
 
 ## C 
 
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [Spooks4576/ghost_esp_app](https://github.com/Spooks4576/ghost_esp_app) - 
 - [0xchocolate/flipperzero-wifi-marauder](https://github.com/0xchocolate/flipperzero-wifi-marauder) - Flipper Zero WiFi Marauder companion app
 - [mariotaku/moonlight-tv](https://github.com/mariotaku/moonlight-tv) - Lightweight NVIDIA GameStream Client, for LG webOS TV and embedded devices like Raspberry Pi
@@ -54,7 +55,7 @@
 ## C++ 
 
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones, wearables and AI-native hardware
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones and AI-native devices
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [nickbild/tflite_c64](https://github.com/nickbild/tflite_c64) - Run inferences using TensorFlow Lite for Microcontrollers on a Commodore 64.

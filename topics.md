@@ -548,7 +548,6 @@
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
-- [dask/fastparquet](https://github.com/dask/fastparquet) - python implementation of the parquet columnar file format.
 - [poliastro/poliastro](https://github.com/poliastro/poliastro) - poliastro - :rocket: Astrodynamics in Python
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -831,9 +830,10 @@
 - [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool/script retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
 - [annapanni/mandelbrot_generator](https://github.com/annapanni/mandelbrot_generator) - Collection of programs generating the mandelbrot set
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
-- [microsoft/vscode-data-wrangler](https://github.com/microsoft/vscode-data-wrangler) - 
+- [microsoft/vscode-data-wrangler](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler extension for Visual Studio Code
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [ryanchynoweth44/DatabricksContent](https://github.com/ryanchynoweth44/DatabricksContent) - Examples surrounding Databricks.
+- [dask/fastparquet](https://github.com/dask/fastparquet) - python implementation of the parquet columnar file format.
 - [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware

@@ -296,6 +296,7 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [michaelthwan/searchGPT](https://github.com/michaelthwan/searchGPT) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -502,6 +503,7 @@
 
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [GenieFramework/Genie.jl](https://github.com/GenieFramework/Genie.jl) - 🧞The highly productive Julia web framework
 
@@ -543,6 +545,7 @@
 
 ## hacktoberfest 
 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [tonybaloney/perflint](https://github.com/tonybaloney/perflint) - Python Linter for performance anti patterns
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
 - [SamirPaulb/DSAlgo](https://github.com/SamirPaulb/DSAlgo) - 📚A repository that contains all the Data Structures and Algorithms concepts and solutions to various problems in Python3 stored in a structured manner.👨‍💻🎯
@@ -773,6 +776,7 @@
 ## open-source 
 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs

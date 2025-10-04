@@ -139,6 +139,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vuejs](#vuejs)
 - [wagtail](#wagtail)
 - [web](#web)
@@ -1163,6 +1164,11 @@
 ## visual-studio-code 
 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+
+## visualization 
+
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis
+- [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 
 ## vuejs 
 

@@ -90,6 +90,7 @@
 
 ## JavaScript 
 
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [rustamyusupov/faster-road-racing](https://github.com/rustamyusupov/faster-road-racing) - Faster Road Racing "5k to half marathon". Pete Pfitzinger
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story

@@ -69,6 +69,7 @@
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
@@ -562,6 +563,10 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [go101/go101](https://github.com/go101/go101) - An up-to-date (unofficial) knowledge base for Go programming self learning
 
+## gui 
+
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
+
 ## hacking 
 
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -929,7 +934,7 @@
 - [captain-amygdala/pistorm](https://github.com/captain-amygdala/pistorm) - 68k Hardware Emulator
 - [Widdershin/flask-desktop](https://github.com/Widdershin/flask-desktop) - flask-desktop lets you create first class desktop applications in Python with HTML/CSS
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
-- [gmpy2/gmpy2](https://github.com/gmpy2/gmpy2) - General Multi-Precision arithmetic for Python 2.6+/3+ (GMP, MPIR, MPFR, MPC)
+- [gmpy2/gmpy2](https://github.com/gmpy2/gmpy2) - General Multi-Precision arithmetic for Python (GMP, MPIR, MPFR, MPC)
 - [libyal/libpff](https://github.com/libyal/libpff) - Library and tools to access the Personal Folder File (PFF) and the Offline Folder File (OFF) format
 - [eihli/image-table-ocr](https://github.com/eihli/image-table-ocr) - Turn images of tables into CSV data. Detect tables from images and run OCR on the cells.
 - [ProfessorKazarinoff/Problem-Solving-with-Python-37-Edition](https://github.com/ProfessorKazarinoff/Problem-Solving-with-Python-37-Edition) - Repo for the book Problem Solving with Python 3.7 Edition by Peter D. Kazarinoff, PhD. The newest edition of Problem Solving with Python book.

@@ -184,6 +184,7 @@
 
 ## Python 
 
+- [pytoolz/toolz](https://github.com/pytoolz/toolz) - A functional standard library for Python.
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.

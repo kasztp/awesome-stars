@@ -67,6 +67,7 @@
 - [framework](#framework)
 - [frontend](#frontend)
 - [gamedev](#gamedev)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -556,6 +557,12 @@
 
 - [pygame-web/pygbag](https://github.com/pygame-web/pygbag) - python and pygame wasm for everyone ( packager + test server + simulator )
 
+## generative-ai 
+
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 12 Lessons to Get Started Building AI Agents
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
+
 ## git 
 
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -922,7 +929,6 @@
 - [faster-cpython/cpython](https://github.com/faster-cpython/cpython) - The Python programming language
 - [mriale/PyDPainter](https://github.com/mriale/PyDPainter) - A usable pixel art paint program written in Python
 - [databricks/ide-best-practices](https://github.com/databricks/ide-best-practices) - Best practices for working with Databricks from an IDE
-- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
 - [andrasnagya/AdvancedPyChapters](https://github.com/andrasnagya/AdvancedPyChapters) - 
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [pygame-web/pygame-web.github.io](https://github.com/pygame-web/pygame-web.github.io) - Run python and pygame code in your html

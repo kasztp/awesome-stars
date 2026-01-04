@@ -98,6 +98,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [matlab](#matlab)
+- [mcp](#mcp)
 - [mobile](#mobile)
 - [music](#music)
 - [mysql](#mysql)
@@ -786,6 +787,11 @@
 ## matlab 
 
 - [csmailis/NPYViewer](https://github.com/csmailis/NPYViewer) - Load and view .npy files containing 2D and 1D NumPy arrays.
+
+## mcp 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 
 ## mobile 
 

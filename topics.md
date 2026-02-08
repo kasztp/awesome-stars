@@ -885,6 +885,7 @@
 
 ## others 
 
+- [finnvoor/fx-upscale](https://github.com/finnvoor/fx-upscale) - Metal-powered video upscaling
 - [wengjiyao/upscale-enhance](https://github.com/wengjiyao/upscale-enhance) - High-quality video and image super-resolution powered by    Real-ESRGAN. Upscale your media with advanced AI.
 - [pytoolz/toolz](https://github.com/pytoolz/toolz) - A functional standard library for Python.
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team

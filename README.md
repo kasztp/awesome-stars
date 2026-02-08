@@ -24,6 +24,7 @@
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Verilog](#verilog)
@@ -344,6 +345,10 @@
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [cdarlint/winutils](https://github.com/cdarlint/winutils) - winutils.exe hadoop.dll and hdfs.dll binaries for hadoop windows
 - [cahya-wirawan/deepracer-tools](https://github.com/cahya-wirawan/deepracer-tools) - Some tools for AWS  Deepracer
+
+## Swift 
+
+- [finnvoor/fx-upscale](https://github.com/finnvoor/fx-upscale) - Metal-powered video upscaling
 
 ## TeX 
 

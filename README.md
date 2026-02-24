@@ -34,7 +34,7 @@
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [Spooks4576/ghost_esp_app](https://github.com/Spooks4576/ghost_esp_app) - 
 - [0xchocolate/flipperzero-wifi-marauder](https://github.com/0xchocolate/flipperzero-wifi-marauder) - Flipper Zero WiFi Marauder companion app
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI inference engine for mobile devices & wearables
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
 - [mariotaku/moonlight-tv](https://github.com/mariotaku/moonlight-tv) - Lightweight NVIDIA GameStream Client, for LG webOS TV and embedded devices like Raspberry Pi
 - [mariotaku/ihsplay](https://github.com/mariotaku/ihsplay) - Steam In-Home Streaming Client Application
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
@@ -150,7 +150,7 @@
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The paper list of the 86-page SCIS cover paper "The Rise and Potential of Large Language Model Based Agents: A Survey" by Zhiheng Xi et al.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular software
 - [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - :sparkles::sparkles:Latest Advances on Multimodal Large Language Models
 - [microsoft/vscode-data-wrangler](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler extension for Visual Studio Code
 - [tfayyaz/awesome-azure-databricks](https://github.com/tfayyaz/awesome-azure-databricks) - Awesome content all about Azure Databricks

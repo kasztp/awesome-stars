@@ -49,7 +49,7 @@
 - [gmpy2/gmpy2](https://github.com/gmpy2/gmpy2) - General Multi-Precision arithmetic for Python (GMP, MPIR, MPFR, MPC)
 - [libyal/libpff](https://github.com/libyal/libpff) - Library and tools to access the Personal Folder File (PFF) and the Offline Folder File (OFF) format
 - [michalsc/Emu68](https://github.com/michalsc/Emu68) - M68K emulation for AArch64/AArch32
-- [Staringlizard/amiv](https://github.com/Staringlizard/amiv) - Amiga RGB to HDMI converter
+- [Scynode/amiv](https://github.com/Scynode/amiv) - Amiga RGB to HDMI converter
 
 ## C# # 
 

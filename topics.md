@@ -60,6 +60,7 @@
 - [documentation](#documentation)
 - [education](#education)
 - [electron](#electron)
+- [fastapi](#fastapi)
 - [firebase](#firebase)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -523,6 +524,10 @@
 ## electron 
 
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
+
+## fastapi 
+
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ## firebase 
 

@@ -888,6 +888,7 @@
 
 ## others 
 
+- [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful
 - [finnvoor/fx-upscale](https://github.com/finnvoor/fx-upscale) - Metal-powered video upscaling
 - [wengjiyao/upscale-enhance](https://github.com/wengjiyao/upscale-enhance) - High-quality video and image super-resolution powered by    Real-ESRGAN. Upscale your media with advanced AI.
 - [pytoolz/toolz](https://github.com/pytoolz/toolz) - A functional standard library for Python.

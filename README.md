@@ -184,6 +184,7 @@
 
 ## Python 
 
+- [tiagoantao/python-performance](https://github.com/tiagoantao/python-performance) - Repository for the book Fast Python - published by Manning
 - [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful
 - [wengjiyao/upscale-enhance](https://github.com/wengjiyao/upscale-enhance) - High-quality video and image super-resolution powered by    Real-ESRGAN. Upscale your media with advanced AI.

@@ -153,6 +153,7 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [ui](#ui)
+- [video](#video)
 - [visualization](#visualization)
 - [vuejs](#vuejs)
 - [wagtail](#wagtail)
@@ -1293,6 +1294,10 @@
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [writer/writer-framework](https://github.com/writer/writer-framework) - No-code in the front, Python in the back. An open-source framework for creating data apps.
+
+## video 
+
+- [the-database/mpv-upscale-2x_animejanai](https://github.com/the-database/mpv-upscale-2x_animejanai) - Real-time anime upscaling to 4k in mpv with Real-ESRGAN compact models
 
 ## visualization 
 

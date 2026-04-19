@@ -20,6 +20,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
+- [PLSQL](#plsql)
 - [Python](#python)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -181,8 +182,13 @@
 - [grovdata/Amiga_Sources](https://github.com/grovdata/Amiga_Sources) - A collection of of sources and hardware related to classic Commodore Amiga computers.
 - [pjreddie/TopDeepLearning](https://github.com/pjreddie/TopDeepLearning) - A list of popular github projects related to deep learning
 
+## PLSQL 
+
+- [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+
 ## Python 
 
+- [jrlasak/databricks-code-practice](https://github.com/jrlasak/databricks-code-practice) - Practice Databricks coding skills with hands-on exercises. Import into Databricks Free Edition, write code, run assertions, check pass/fail. Covers Delta Lake, Spark SQL, PySpark, Auto Loader, medalli
 - [the-database/mpv-upscale-2x_animejanai](https://github.com/the-database/mpv-upscale-2x_animejanai) - Real-time anime upscaling to 4k in mpv with Real-ESRGAN compact models
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [tiagoantao/python-performance](https://github.com/tiagoantao/python-performance) - Repository for the book Fast Python - published by Manning

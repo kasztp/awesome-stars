@@ -163,7 +163,7 @@
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
-- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
+- [wagtail/awesome-wagtail](https://github.com/wagtail/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 - [scottpletcher/deepracer](https://github.com/scottpletcher/deepracer) - AWS DeepRacer Experimentation
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
@@ -188,6 +188,7 @@
 
 ## Python 
 
+- [TapiocaFox/Daijishou](https://github.com/TapiocaFox/Daijishou) - Daijishō is a retro launcher that manages your retro games libraries. This repo is for assets and served as a main page.
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字
 - [jrlasak/databricks-code-practice](https://github.com/jrlasak/databricks-code-practice) - Practice Databricks coding skills with hands-on exercises. Import into Databricks Free Edition, write code, run assertions, check pass/fail. Covers Delta Lake, Spark SQL, PySpark, Auto Loader, medalli
 - [the-database/mpv-upscale-2x_animejanai](https://github.com/the-database/mpv-upscale-2x_animejanai) - Real-time anime upscaling to 4k in mpv with Real-ESRGAN compact models

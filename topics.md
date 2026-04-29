@@ -920,6 +920,7 @@
 
 ## others 
 
+- [Sim2Reason/Sim2Reason](https://github.com/Sim2Reason/Sim2Reason) - Sim2Reason: Solving Physics Olympiad via Reinforcement Learning on Physics Simulators.  We present a method for turning physics simulators into scalable generators of question–answer pairs for improvi
 - [santiifm/milou](https://github.com/santiifm/milou) - ROM Scraper and Downloader for Android
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [databricks/databricks-agent-skills](https://github.com/databricks/databricks-agent-skills) - 

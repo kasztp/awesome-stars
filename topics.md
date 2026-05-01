@@ -920,6 +920,8 @@
 
 ## others 
 
+- [ps5-linux/ps5-linux-tools](https://github.com/ps5-linux/ps5-linux-tools) - Linux tools for PS5
+- [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) - Linux payload implementing the HV exploit and a custom bootloader
 - [Sim2Reason/Sim2Reason](https://github.com/Sim2Reason/Sim2Reason) - Sim2Reason: Solving Physics Olympiad via Reinforcement Learning on Physics Simulators.  We present a method for turning physics simulators into scalable generators of question–answer pairs for improvi
 - [santiifm/milou](https://github.com/santiifm/milou) - ROM Scraper and Downloader for Android
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.

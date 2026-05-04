@@ -234,7 +234,7 @@
 - [mrpowers-io/quinn](https://github.com/mrpowers-io/quinn) - pyspark methods to enhance developer productivity 📣 👯 🎉
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [mosaicml/streaming](https://github.com/mosaicml/streaming) - A Data Streaming Library for Efficient Neural Network Training
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [smart-underworld/seestar_alp](https://github.com/smart-underworld/seestar_alp) - Complete Control and Automation for Seestar S50
 - [Nike-Inc/brickflow](https://github.com/Nike-Inc/brickflow) - Pythonic Programming Framework to orchestrate jobs in Databricks Workflow
 - [danielbeach/lakescum](https://github.com/danielbeach/lakescum) - A Python package to help Databricks Unity Catalog users to read and query Delta Lake tables with Polars, DuckDb, or PyArrow.

@@ -281,7 +281,7 @@
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
 - [databrickslabs/dlt-meta](https://github.com/databrickslabs/dlt-meta) - Metadata driven Spark Declarative Pipelines framework for bronze/silver pipelines
 - [databricks/databricks-cli](https://github.com/databricks/databricks-cli) - (Legacy) Command Line Interface for Databricks
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [csurfer/pyheat](https://github.com/csurfer/pyheat) - pprofile + matplotlib = Python program profiled as an awesome heatmap!
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz

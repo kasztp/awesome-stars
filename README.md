@@ -84,7 +84,7 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 
 ## HTML 
@@ -199,6 +199,7 @@
 
 ## Python 
 
+- [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) - Databricks Toolkit for Coding Agents provided by Field Engineering
 - [mwasifanwar/SportIQ](https://github.com/mwasifanwar/SportIQ) - Computer vision system that analyzes sports footage to provide real-time performance metrics, injury prevention insights, and tactical recommendations.
 - [mroytman83/Real-Time-MMA-Tracking](https://github.com/mroytman83/Real-Time-MMA-Tracking) - 
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 

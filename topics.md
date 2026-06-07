@@ -406,6 +406,7 @@
 
 ## computer-vision 
 
+- [ACM40960/Boxing](https://github.com/ACM40960/Boxing) - 🥊 An AI-powered boxing trainer for real-time punch, block, and stance analysis using computer vision.
 - [mwasifanwar/SportIQ](https://github.com/mwasifanwar/SportIQ) - Computer vision system that analyzes sports footage to provide real-time performance metrics, injury prevention insights, and tactical recommendations.
 - [SkalskiP/courses](https://github.com/SkalskiP/courses) - This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
@@ -941,6 +942,8 @@
 
 ## others 
 
+- [jyuntins/harmony4d](https://github.com/jyuntins/harmony4d) - [NeuRIPS, 2024] Multi-Human Dataset for Close Interactions.
+- [jiu-jitsu-auto-scoring/model](https://github.com/jiu-jitsu-auto-scoring/model) - model sourcecode
 - [mroytman83/Real-Time-MMA-Tracking](https://github.com/mroytman83/Real-Time-MMA-Tracking) - 
 - [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 desk dashboard that shows Claude Code usage
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 

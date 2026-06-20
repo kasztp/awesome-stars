@@ -188,6 +188,7 @@
 
 ## ai 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
@@ -396,6 +397,7 @@
 
 ## coding 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 
 ## computer-science 
@@ -948,6 +950,7 @@
 
 ## others 
 
+- [Ar9av/gemini-nano-chrome](https://github.com/Ar9av/gemini-nano-chrome) - Using Gemini Nano through Chrome's built-in Prompt API, with scripts to automate setup and verification
 - [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
 - [jyuntins/harmony4d](https://github.com/jyuntins/harmony4d) - [NeuRIPS, 2024] Multi-Human Dataset for Close Interactions.
 - [jiu-jitsu-auto-scoring/model](https://github.com/jiu-jitsu-auto-scoring/model) - model sourcecode
@@ -958,7 +961,6 @@
 - [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) - Linux payload implementing HV exploits to run a custom bootloader
 - [Sim2Reason/Sim2Reason](https://github.com/Sim2Reason/Sim2Reason) - Sim2Reason: Solving Physics Olympiad via Reinforcement Learning on Physics Simulators.  We present a method for turning physics simulators into scalable generators of question–answer pairs for improvi
 - [santiifm/milou](https://github.com/santiifm/milou) - ROM Scraper and Downloader for Android
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [databricks/databricks-agent-skills](https://github.com/databricks/databricks-agent-skills) - 
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system

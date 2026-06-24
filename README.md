@@ -202,6 +202,8 @@
 
 ## Python 
 
+- [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - Security Scanner for Agent Skills
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [jyuntins/harmony4d](https://github.com/jyuntins/harmony4d) - [NeuRIPS, 2024] Multi-Human Dataset for Close Interactions.
 - [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) - Databricks Toolkit for Coding Agents provided by Field Engineering
 - [mwasifanwar/SportIQ](https://github.com/mwasifanwar/SportIQ) - Computer vision system that analyzes sports footage to provide real-time performance metrics, injury prevention insights, and tactical recommendations.

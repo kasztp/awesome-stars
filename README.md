@@ -131,7 +131,7 @@
 - [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [smart-underworld/seestar_run](https://github.com/smart-underworld/seestar_run) - 
-- [myamafuj/hadoop-hive-spark-docker](https://github.com/myamafuj/hadoop-hive-spark-docker) - Hadoop-Hive-Spark cluster + Jupyter on Docker
+- [mtakafuji/hadoop-hive-spark-docker](https://github.com/mtakafuji/hadoop-hive-spark-docker) - Hadoop-Hive-Spark cluster + Jupyter on Docker
 - [ryanchynoweth44/DatabricksContent](https://github.com/ryanchynoweth44/DatabricksContent) - Examples surrounding Databricks.
 - [andrasnagya/AdvancedPyChapters](https://github.com/andrasnagya/AdvancedPyChapters) - 
 - [databrickslabs/tempo](https://github.com/databrickslabs/tempo) - API for manipulating time series on top of Apache Spark: lagged time values, rolling statistics (mean, avg, sum, count, etc), AS OF joins, downsampling, and interpolation

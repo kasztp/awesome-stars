@@ -31,6 +31,7 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
@@ -378,6 +379,15 @@
 ## chrome 
 
 - [adieuadieu/serverless-chrome](https://github.com/adieuadieu/serverless-chrome) - 🌐 Run headless Chrome/Chromium on AWS Lambda
+
+## claude 
+
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) - Databricks Toolkit for Coding Agents provided by Field Engineering
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## claude-code 
 

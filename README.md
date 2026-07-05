@@ -174,7 +174,6 @@
 - [pygame-web/pygame-web.github.io](https://github.com/pygame-web/pygame-web.github.io) - Run python and pygame code in your html
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [dylanhogg/awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
@@ -297,6 +296,7 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [pygame-web/pygbag](https://github.com/pygame-web/pygbag) - python and pygame wasm for everyone ( packager + test server + simulator )
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
 - [databrickslabs/dlt-meta](https://github.com/databrickslabs/dlt-meta) - Metadata driven Spark Declarative Pipelines framework for bronze/silver pipelines
 - [databricks/databricks-cli](https://github.com/databricks/databricks-cli) - (Legacy) Command Line Interface for Databricks

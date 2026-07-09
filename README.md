@@ -255,7 +255,6 @@
 - [smart-underworld/seestar_alp](https://github.com/smart-underworld/seestar_alp) - Complete Control and Automation for Seestar S50
 - [Nike-Inc/brickflow](https://github.com/Nike-Inc/brickflow) - Pythonic Programming Framework to orchestrate jobs in Databricks Workflow
 - [danielbeach/lakescum](https://github.com/danielbeach/lakescum) - A Python package to help Databricks Unity Catalog users to read and query Delta Lake tables with Polars, DuckDb, or PyArrow.
-- [getyourguide/TypedPyspark](https://github.com/getyourguide/TypedPyspark) - Type-annotate your spark dataframes and validate them
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [csmai/job_scraping](https://github.com/csmai/job_scraping) - 
 - [databrickslabs/ucx](https://github.com/databrickslabs/ucx) - Automated migrations to Unity Catalog

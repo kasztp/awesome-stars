@@ -61,7 +61,7 @@
 
 ## C++ 
 
-- [BlitterStudio/amiberry](https://github.com/BlitterStudio/amiberry) - Optimized Amiga emulator
+- [BlitterStudio/amiberry](https://github.com/BlitterStudio/amiberry) - Optimized multi-platform Amiga emulator
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -201,12 +201,13 @@
 
 ## Python 
 
+- [gulyasm/ebook-creator](https://github.com/gulyasm/ebook-creator) - 
 - [kasothaphie/GenRecon](https://github.com/kasothaphie/GenRecon) - 
 - [puterboy/HAOS-kiosk](https://github.com/puterboy/HAOS-kiosk) - Display HA dashboards in kiosk mode directly on your HAOS server
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - Security Scanner for Agent Skills
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [jyuntins/harmony4d](https://github.com/jyuntins/harmony4d) - [NeuRIPS, 2024] Multi-Human Dataset for Close Interactions.
 - [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) - Databricks Toolkit for Coding Agents provided by Field Engineering
 - [mwasifanwar/SportIQ](https://github.com/mwasifanwar/SportIQ) - Computer vision system that analyzes sports footage to provide real-time performance metrics, injury prevention insights, and tactical recommendations.

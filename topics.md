@@ -707,6 +707,7 @@
 
 ## home-assistant 
 
+- [maorcc/hassio-addon-transmission](https://github.com/maorcc/hassio-addon-transmission) - Transmission add-on for Home Assistant
 - [py-smart-gardena/hass-gardena-smart-system](https://github.com/py-smart-gardena/hass-gardena-smart-system) - Home Assistant custom component integration for Gardena Smart System
 - [sockless-coding/panasonic_cc](https://github.com/sockless-coding/panasonic_cc) - Panasonic Comfort Cloud - Home Assistant Component
 - [timmo001/homeassistant-integration-supabase-export](https://github.com/timmo001/homeassistant-integration-supabase-export) - Home Assistant Integration - Supabase Export

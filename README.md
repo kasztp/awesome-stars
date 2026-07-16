@@ -381,6 +381,7 @@
 
 ## Shell 
 
+- [maorcc/hassio-addon-transmission](https://github.com/maorcc/hassio-addon-transmission) - Transmission add-on for Home Assistant
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [snok/install-poetry](https://github.com/snok/install-poetry) - Github action for installing and configuring Poetry
 - [aws-deepracer-community/deepracer-for-cloud](https://github.com/aws-deepracer-community/deepracer-for-cloud) - Creates an AWS DeepRacing training environment which can be deployed in the cloud, or locally on Ubuntu Linux, Windows or Mac.

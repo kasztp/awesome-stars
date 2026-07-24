@@ -63,7 +63,7 @@
 
 - [BlitterStudio/amiberry](https://github.com/BlitterStudio/amiberry) - Optimized multi-platform Amiga emulator
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Tiny AI for tiny devices; quantization, kernels, inference engine for mobiles, wearables and smart home and robots.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, inference engine for mobiles, wearables, smart home and robots.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [nickbild/tflite_c64](https://github.com/nickbild/tflite_c64) - Run inferences using TensorFlow Lite for Microcontrollers on a Commodore 64.

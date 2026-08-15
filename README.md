@@ -200,6 +200,7 @@
 
 ## Python 
 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [gulyasm/ebook-creator](https://github.com/gulyasm/ebook-creator) - 
 - [kasothaphie/GenRecon](https://github.com/kasothaphie/GenRecon) - 
 - [puterboy/HAOS-kiosk](https://github.com/puterboy/HAOS-kiosk) - Display HA dashboards in kiosk mode directly on your HAOS server

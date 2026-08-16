@@ -122,6 +122,7 @@
 
 ## Jupyter Notebook 
 
+- [talhaahussain/grappling-pose-identification](https://github.com/talhaahussain/grappling-pose-identification) - Third year university dissertation. Continuous Assessment for ECM3401 -  Individual Literature Review and Project. Involves the implementation of a human pose estimation computer vision model to detec
 - [jiu-jitsu-auto-scoring/model](https://github.com/jiu-jitsu-auto-scoring/model) - model sourcecode
 - [ACM40960/Boxing](https://github.com/ACM40960/Boxing) - 🥊 An AI-powered boxing trainer for real-time punch, block, and stance analysis using computer vision.
 - [gepa-ai/gepa](https://github.com/gepa-ai/gepa) - Optimize prompts, code, and more with AI-powered Reflective Optimization
@@ -200,6 +201,7 @@
 
 ## Python 
 
+- [kasztp/SportIQ](https://github.com/kasztp/SportIQ) - Computer vision system that analyzes sports footage to provide real-time performance metrics, injury prevention insights, and tactical recommendations.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [gulyasm/ebook-creator](https://github.com/gulyasm/ebook-creator) - 
 - [kasothaphie/GenRecon](https://github.com/kasothaphie/GenRecon) - 

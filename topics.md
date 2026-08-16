@@ -272,6 +272,7 @@
 
 ## artificial-intelligence 
 
+- [talhaahussain/grappling-pose-identification](https://github.com/talhaahussain/grappling-pose-identification) - Third year university dissertation. Continuous Assessment for ECM3401 -  Individual Literature Review and Project. Involves the implementation of a human pose estimation computer vision model to detec
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
@@ -439,6 +440,7 @@
 
 ## computer-vision 
 
+- [talhaahussain/grappling-pose-identification](https://github.com/talhaahussain/grappling-pose-identification) - Third year university dissertation. Continuous Assessment for ECM3401 -  Individual Literature Review and Project. Involves the implementation of a human pose estimation computer vision model to detec
 - [ACM40960/Boxing](https://github.com/ACM40960/Boxing) - 🥊 An AI-powered boxing trainer for real-time punch, block, and stance analysis using computer vision.
 - [mwasifanwar/SportIQ](https://github.com/mwasifanwar/SportIQ) - Computer vision system that analyzes sports footage to provide real-time performance metrics, injury prevention insights, and tactical recommendations.
 - [SkalskiP/courses](https://github.com/SkalskiP/courses) - This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
@@ -984,6 +986,7 @@
 
 ## others 
 
+- [kasztp/SportIQ](https://github.com/kasztp/SportIQ) - Computer vision system that analyzes sports footage to provide real-time performance metrics, injury prevention insights, and tactical recommendations.
 - [gulyasm/ebook-creator](https://github.com/gulyasm/ebook-creator) - 
 - [kasothaphie/GenRecon](https://github.com/kasothaphie/GenRecon) - 
 - [puterboy/HAOS-kiosk](https://github.com/puterboy/HAOS-kiosk) - Display HA dashboards in kiosk mode directly on your HAOS server
@@ -1251,6 +1254,7 @@
 
 ## pytorch 
 
+- [talhaahussain/grappling-pose-identification](https://github.com/talhaahussain/grappling-pose-identification) - Third year university dissertation. Continuous Assessment for ECM3401 -  Individual Literature Review and Project. Involves the implementation of a human pose estimation computer vision model to detec
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.

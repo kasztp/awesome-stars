@@ -343,7 +343,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [Widdershin/flask-desktop](https://github.com/Widdershin/flask-desktop) - flask-desktop lets you create first class desktop applications in Python with HTML/CSS
 - [eihli/image-table-ocr](https://github.com/eihli/image-table-ocr) - Turn images of tables into CSV data. Detect tables from images and run OCR on the cells.
@@ -368,6 +368,7 @@
 
 ## Rust 
 
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models

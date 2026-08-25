@@ -203,6 +203,7 @@
 
 ## Python 
 
+- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - 
 - [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
 - [kasztp/SportIQ](https://github.com/kasztp/SportIQ) - Computer vision system that analyzes sports footage to provide real-time performance metrics, injury prevention insights, and tactical recommendations.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.

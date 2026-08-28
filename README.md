@@ -304,7 +304,7 @@
 - [pygame-web/pygbag](https://github.com/pygame-web/pygbag) - python and pygame wasm for everyone ( packager + test server + simulator )
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
-- [databrickslabs/dlt-meta](https://github.com/databrickslabs/dlt-meta) - Metadata driven Spark Declarative Pipelines framework for bronze/silver pipelines
+- [databrickslabs/sdp-meta](https://github.com/databrickslabs/sdp-meta) - Metadata driven Spark Declarative Pipelines framework for bronze/silver pipelines
 - [databricks/databricks-cli](https://github.com/databricks/databricks-cli) - (Legacy) Command Line Interface for Databricks
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.

@@ -21,6 +21,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
+- [PHP](#php)
 - [PLSQL](#plsql)
 - [Python](#python)
 - [Rust](#rust)
@@ -34,8 +35,6 @@
 ## C 
 
 - [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 desk dashboard that shows Claude Code usage
-- [ps5-linux/ps5-linux-tools](https://github.com/ps5-linux/ps5-linux-tools) - Linux tools for PS5
-- [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader) - Linux payload implementing HV exploits to run a custom bootloader
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [Spooks4576/ghost_esp_app](https://github.com/Spooks4576/ghost_esp_app) - 
 - [0xchocolate/flipperzero-wifi-marauder](https://github.com/0xchocolate/flipperzero-wifi-marauder) - Flipper Zero WiFi Marauder companion app
@@ -196,6 +195,10 @@
 - [filiplajszczak/awesome-zen-of-python](https://github.com/filiplajszczak/awesome-zen-of-python) - awesome list of so called python philosophy resources
 - [grovdata/Amiga_Sources](https://github.com/grovdata/Amiga_Sources) - A collection of of sources and hardware related to classic Commodore Amiga computers.
 - [pjreddie/TopDeepLearning](https://github.com/pjreddie/TopDeepLearning) - A list of popular github projects related to deep learning
+
+## PHP 
+
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 ## PLSQL 
 
@@ -410,7 +413,6 @@
 - [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV

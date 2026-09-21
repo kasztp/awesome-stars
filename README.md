@@ -224,7 +224,7 @@
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 - [Sim2Reason/Sim2Reason](https://github.com/Sim2Reason/Sim2Reason) - Sim2Reason: Solving Physics Olympiad via Reinforcement Learning on Physics Simulators.  We present a method for turning physics simulators into scalable generators of question–answer pairs for improvi
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [databricks/databricks-agent-skills](https://github.com/databricks/databricks-agent-skills) - 
+- [databricks/databricks-agent-skills](https://github.com/databricks/databricks-agent-skills) - Databricks AI Tools: skills and plugins for building on Databricks with Claude Code, Cursor, Codex, GitHub Copilot, and other AI coding agents.
 - [TapiocaFox/Daijishou](https://github.com/TapiocaFox/Daijishou) - Daijishō is a retro launcher that manages your retro games libraries. This repo is for assets and served as a main page.
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.
 - [jrlasak/databricks-code-practice](https://github.com/jrlasak/databricks-code-practice) - Practice Databricks coding skills with hands-on exercises. Import into Databricks Free Edition, write code, run assertions, check pass/fail. Covers Delta Lake, Spark SQL, PySpark, Auto Loader, medalli

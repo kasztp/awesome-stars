@@ -1006,7 +1006,7 @@
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 - [Sim2Reason/Sim2Reason](https://github.com/Sim2Reason/Sim2Reason) - Sim2Reason: Solving Physics Olympiad via Reinforcement Learning on Physics Simulators.  We present a method for turning physics simulators into scalable generators of question–answer pairs for improvi
 - [santiifm/milou](https://github.com/santiifm/milou) - ROM Scraper and Downloader for Android
-- [databricks/databricks-agent-skills](https://github.com/databricks/databricks-agent-skills) - 
+- [databricks/databricks-agent-skills](https://github.com/databricks/databricks-agent-skills) - Databricks AI Tools: skills and plugins for building on Databricks with Claude Code, Cursor, Codex, GitHub Copilot, and other AI coding agents.
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 - [novatic14/MANPADS-System-Launcher-and-Rocket](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) - 

@@ -242,7 +242,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [etched-ai/open-oasis](https://github.com/etched-ai/open-oasis) - Inference script for Oasis 500M
 - [py-smart-gardena/hass-gardena-smart-system](https://github.com/py-smart-gardena/hass-gardena-smart-system) - Home Assistant custom component integration for Gardena Smart System
 - [sockless-coding/panasonic_cc](https://github.com/sockless-coding/panasonic_cc) - Panasonic Comfort Cloud - Home Assistant Component

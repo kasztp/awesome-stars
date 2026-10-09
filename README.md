@@ -18,10 +18,10 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lean](#lean)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
-- [PHP](#php)
 - [PLSQL](#plsql)
 - [Python](#python)
 - [Rust](#rust)
@@ -150,6 +150,10 @@
 - [santiifm/milou](https://github.com/santiifm/milou) - ROM Scraper and Downloader for Android
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 
+## Lean 
+
+- [openai/math](https://github.com/openai/math) - 
+
 ## Makefile 
 
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
@@ -195,10 +199,6 @@
 - [filiplajszczak/awesome-zen-of-python](https://github.com/filiplajszczak/awesome-zen-of-python) - awesome list of so called python philosophy resources
 - [grovdata/Amiga_Sources](https://github.com/grovdata/Amiga_Sources) - A collection of of sources and hardware related to classic Commodore Amiga computers.
 - [pjreddie/TopDeepLearning](https://github.com/pjreddie/TopDeepLearning) - A list of popular github projects related to deep learning
-
-## PHP 
-
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
 ## PLSQL 
 
@@ -412,6 +412,7 @@
 - [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV

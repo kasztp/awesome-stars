@@ -251,7 +251,7 @@
 - [databricks-solutions/databricks-apps-cookbook](https://github.com/databricks-solutions/databricks-apps-cookbook) - Ready-to-use code snippets for building interactive Databricks Apps.
 - [benitomartin/mlops-databricks-credit-default](https://github.com/benitomartin/mlops-databricks-credit-default) - Financial Risk Assessment System
 - [datamole-ai/pysparkdt](https://github.com/datamole-ai/pysparkdt) - An open-source Python library for simplifying local testing of Databricks workflows that use PySpark and Delta tables.
-- [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict) - Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning
+- [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict) - Python AutoML toolkit for benchmarking classification, regression, and time-series forecasting models, with GPU acceleration, MLflow tracking, and automated preprocessing.
 - [databrickslabs/dqx](https://github.com/databrickslabs/dqx) - Databricks framework to validate Data Quality of pySpark DataFrames and Tables
 - [databrickslabs/lakebridge](https://github.com/databrickslabs/lakebridge) - Accelerates migrations to Databricks by automating key migration activities
 - [databricks/databricks-sdk-py](https://github.com/databricks/databricks-sdk-py) - Databricks SDK for Python (Beta)
@@ -412,7 +412,7 @@
 - [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) - Device/DevMode Manager for webOS TV

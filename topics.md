@@ -67,6 +67,7 @@
 - [education](#education)
 - [electron](#electron)
 - [emulator](#emulator)
+- [esp32](#esp32)
 - [fastapi](#fastapi)
 - [firebase](#firebase)
 - [flask](#flask)
@@ -390,6 +391,7 @@
 
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [databricks-solutions/ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) - Databricks Toolkit for Coding Agents provided by Field Engineering
+- [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 Clawd mascot that shows you your Claude Code usage
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -399,6 +401,7 @@
 
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 Clawd mascot that shows you your Claude Code usage
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 
@@ -606,6 +609,10 @@
 ## emulator 
 
 - [BlitterStudio/amiberry](https://github.com/BlitterStudio/amiberry) - Optimized multi-platform Amiga emulator
+
+## esp32 
+
+- [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 Clawd mascot that shows you your Claude Code usage
 
 ## fastapi 
 
@@ -1002,7 +1009,6 @@
 - [jyuntins/harmony4d](https://github.com/jyuntins/harmony4d) - [NeuRIPS, 2024] Multi-Human Dataset for Close Interactions.
 - [jiu-jitsu-auto-scoring/model](https://github.com/jiu-jitsu-auto-scoring/model) - model sourcecode
 - [mroytman83/Real-Time-MMA-Tracking](https://github.com/mroytman83/Real-Time-MMA-Tracking) - 
-- [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 desk dashboard that shows Claude Code usage
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 - [Sim2Reason/Sim2Reason](https://github.com/Sim2Reason/Sim2Reason) - Sim2Reason: Solving Physics Olympiad via Reinforcement Learning on Physics Simulators.  We present a method for turning physics simulators into scalable generators of question–answer pairs for improvi
 - [santiifm/milou](https://github.com/santiifm/milou) - ROM Scraper and Downloader for Android

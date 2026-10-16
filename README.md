@@ -34,7 +34,7 @@
 
 ## C 
 
-- [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 Clawd mascot that shows you your Claude Code usage
+- [HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 display that shows you your Claude Code usage
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [Spooks4576/ghost_esp_app](https://github.com/Spooks4576/ghost_esp_app) - 
 - [0xchocolate/flipperzero-wifi-marauder](https://github.com/0xchocolate/flipperzero-wifi-marauder) - Flipper Zero WiFi Marauder companion app

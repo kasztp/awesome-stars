@@ -1044,7 +1044,6 @@
 - [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - :sparkles::sparkles:Latest Advances on Multimodal Large Language Models
 - [Nike-Inc/brickflow](https://github.com/Nike-Inc/brickflow) - Pythonic Programming Framework to orchestrate jobs in Databricks Workflow
 - [danielbeach/lakescum](https://github.com/danielbeach/lakescum) - A Python package to help Databricks Unity Catalog users to read and query Delta Lake tables with Polars, DuckDb, or PyArrow.
-- [martinkarlssonio/big-data-solution](https://github.com/martinkarlssonio/big-data-solution) - 
 - [csmai/job_scraping](https://github.com/csmai/job_scraping) - 
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [databrickslabs/ucx](https://github.com/databrickslabs/ucx) - Automated migrations to Unity Catalog

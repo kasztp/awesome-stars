@@ -10,7 +10,6 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Cuda](#cuda)
-- [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -76,10 +75,6 @@
 ## Cuda 
 
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
-
-## Dockerfile 
-
-- [martinkarlssonio/big-data-solution](https://github.com/martinkarlssonio/big-data-solution) - 
 
 ## Go 
 

@@ -225,7 +225,7 @@
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [databricks/databricks-agent-skills](https://github.com/databricks/databricks-agent-skills) - Databricks AI Tools: skills and plugins for building on Databricks with Claude Code, Cursor, Codex, GitHub Copilot, and other AI coding agents.
 - [TapiocaFox/Daijishou](https://github.com/TapiocaFox/Daijishou) - Daijishō is a retro launcher that manages your retro games libraries. This repo is for assets and served as a main page.
-- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.
+- [xming521/WeClone](https://github.com/xming521/WeClone) - Build a portrait of your life. Assistants that know you. Clones that talk like you.
 - [jrlasak/databricks-code-practice](https://github.com/jrlasak/databricks-code-practice) - Practice Databricks coding skills with hands-on exercises. Import into Databricks Free Edition, write code, run assertions, check pass/fail. Covers Delta Lake, Spark SQL, PySpark, Auto Loader, medalli
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [tiagoantao/python-performance](https://github.com/tiagoantao/python-performance) - Repository for the book Fast Python - published by Manning

@@ -996,6 +996,7 @@
 
 ## others 
 
+- [NVIDIA/structured-data-models](https://github.com/NVIDIA/structured-data-models) - Foundation Models for Structured Data
 - [openai/math](https://github.com/openai/math) - 
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation

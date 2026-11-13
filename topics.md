@@ -71,6 +71,7 @@
 - [fastapi](#fastapi)
 - [firebase](#firebase)
 - [flask](#flask)
+- [flipperzero](#flipperzero)
 - [flutter](#flutter)
 - [framework](#framework)
 - [frontend](#frontend)
@@ -639,6 +640,13 @@
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 
+## flipperzero 
+
+- [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
+- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
+- [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
+- [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
+
 ## flutter 
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
@@ -1069,9 +1077,6 @@
 - [microsoft/vscode-data-wrangler](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler extension for Visual Studio Code
 - [ryanchynoweth44/DatabricksContent](https://github.com/ryanchynoweth44/DatabricksContent) - Examples surrounding Databricks.
 - [dask/fastparquet](https://github.com/dask/fastparquet) - python implementation of the parquet columnar file format.
-- [Flipper-XFW/Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
-- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
-- [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 - [aholstenson/miio](https://github.com/aholstenson/miio) - Control Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more
 - [JsBergbau/MiTemperature2](https://github.com/JsBergbau/MiTemperature2) - Read the values of the Xiaomi Mi Bluetooth Temperature sensor 2 including custom encrypted format.
 - [zewelor/bt-mqtt-gateway](https://github.com/zewelor/bt-mqtt-gateway) - A simple Python script which provides a Bluetooth to MQTT gateway, easily extensible via custom workers. See https://github.com/zewelor/bt-mqtt-gateway/wiki for more information.
